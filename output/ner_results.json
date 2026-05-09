@@ -58,16 +58,16 @@
         "text": "Miễn thuế bốn năm, giảm 50% số thuế phải nộp trong chín năm tiếp theo đối với: a) Thu nhập của doanh nghiệp từ thực hiện dự án đầu tư quy định tại khoản 1 Điều 19 Thông tư số 78/2014/TT-BTC (được sửa đổi, bổ sung tại Khoản 1 Điều 11 Thông tư này).",
         "entities": [
             {
-                "text": "50% số thuế phải nộp trong chín năm tiếp theo đối với: a) Thu nhập của doanh",
-                "label": "RATE",
-                "start": 24,
-                "end": 100
+                "text": "doanh nghiệp",
+                "label": "PARTY",
+                "start": 95,
+                "end": 107
             },
             {
-                "text": "khoản 1",
+                "text": "khoản 1 Điều 19",
                 "label": "LAW",
                 "start": 147,
-                "end": 154
+                "end": 162
             },
             {
                 "text": "Thông tư số 78/2014/TT-BTC",
@@ -76,10 +76,10 @@
                 "end": 189
             },
             {
-                "text": "Khoản 1",
+                "text": "Khoản 1 Điều 11",
                 "label": "LAW",
                 "start": 217,
-                "end": 224
+                "end": 232
             }
         ]
     },
@@ -92,6 +92,18 @@
                 "label": "PARTY",
                 "start": 21,
                 "end": 35
+            },
+            {
+                "text": "giáo viên",
+                "label": "PARTY",
+                "start": 37,
+                "end": 46
+            },
+            {
+                "text": "nhân viên",
+                "label": "PARTY",
+                "start": 48,
+                "end": 57
             }
         ]
     },
@@ -106,16 +118,10 @@
                 "end": 130
             },
             {
-                "text": "từ ngày 01 tháng 5 năm 2021",
+                "text": "ngày 01 tháng 5 năm 2021",
                 "label": "DATE",
-                "start": 180,
+                "start": 183,
                 "end": 207
-            },
-            {
-                "text": "hết ngày",
-                "label": "DATE",
-                "start": 212,
-                "end": 220
             }
         ]
     },
@@ -124,16 +130,10 @@
         "text": "Nghỉ việc không hưởng lương từ 01 tháng trở lên tính từ ngày 01 tháng 5 năm 2021 đến hết ngày 31 tháng 12 năm 2021.",
         "entities": [
             {
-                "text": "từ ngày 01 tháng 5 năm 2021",
+                "text": "ngày 01 tháng 5 năm 2021",
                 "label": "DATE",
-                "start": 53,
+                "start": 56,
                 "end": 80
-            },
-            {
-                "text": "hết ngày",
-                "label": "DATE",
-                "start": 85,
-                "end": 93
             }
         ]
     },
@@ -146,6 +146,12 @@
                 "label": "PARTY",
                 "start": 42,
                 "end": 56
+            },
+            {
+                "text": "khoản 4, khoản 5,",
+                "label": "LAW",
+                "start": 131,
+                "end": 148
             },
             {
                 "text": "Nghị quyết số 68/NQ-CP",
@@ -184,10 +190,10 @@
                 "end": 353
             },
             {
-                "text": "ngày 08 tháng",
+                "text": "ngày 08 tháng 10 năm 2021",
                 "label": "DATE",
                 "start": 354,
-                "end": 367
+                "end": 379
             },
             {
                 "text": "Chính phủ",
@@ -238,10 +244,10 @@
         "text": "Có xác nhận làm việc tại cơ sở giáo dục ngoài công lập ít nhất hết năm học 2021 - 2022 theo kế hoạch năm học của địa phương, bao gồm cơ sở giáo dục ngoài công lập đã làm việc trước đây hoặc cơ sở giáo dục ngoài công lập khác trong trường hợp cơ sở giáo dục ngoài công lập trước đây làm việc không hoạt động trở lại.",
         "entities": [
             {
-                "text": "năm học 2021",
-                "label": "RATE",
+                "text": "năm học 2021 - 2022",
+                "label": "PENALTY",
                 "start": 67,
-                "end": 79
+                "end": 86
             }
         ]
     },
@@ -265,18 +271,6 @@
                 "label": "PARTY",
                 "start": 22,
                 "end": 31
-            },
-            {
-                "text": "phụ cấp ưu",
-                "label": "RATE",
-                "start": 83,
-                "end": 93
-            },
-            {
-                "text": "phụ cấp ưu",
-                "label": "RATE",
-                "start": 141,
-                "end": 151
             }
         ]
     },
@@ -297,40 +291,10 @@
                 "end": 20
             },
             {
-                "text": "phụ cấp ưu",
-                "label": "RATE",
-                "start": 30,
-                "end": 40
-            },
-            {
-                "text": "Thông tư",
-                "label": "LAW",
-                "start": 68,
-                "end": 76
-            },
-            {
                 "text": "ngày 22/3/2010",
-                "label": "DATE",
+                "label": "PARTY",
                 "start": 115,
                 "end": 129
-            },
-            {
-                "text": "Bộ Y tế,",
-                "label": "PARTY",
-                "start": 134,
-                "end": 142
-            },
-            {
-                "text": "Bộ Nội vụ",
-                "label": "PARTY",
-                "start": 143,
-                "end": 152
-            },
-            {
-                "text": "Bộ Tài chính",
-                "label": "PARTY",
-                "start": 154,
-                "end": 166
             },
             {
                 "text": "Nghị định số 64/2009/NĐ-CP",
@@ -355,18 +319,6 @@
                 "label": "PARTY",
                 "start": 273,
                 "end": 282
-            },
-            {
-                "text": "phụ cấp ưu",
-                "label": "RATE",
-                "start": 368,
-                "end": 378
-            },
-            {
-                "text": "Thông tư liên tịch này",
-                "label": "LAW",
-                "start": 406,
-                "end": 428
             }
         ]
     },
@@ -387,10 +339,10 @@
                 "end": 72
             },
             {
-                "text": "Nghị định số 93/2017/NĐ-",
+                "text": "Nghị định số 93/2017/NĐ-CP",
                 "label": "LAW",
                 "start": 73,
-                "end": 97
+                "end": 99
             }
         ]
     },
@@ -491,14 +443,7 @@
     {
         "clause_id": 35,
         "text": "Hương ước, quy ước bị tạm ngừng thực hiện một phần hoặc toàn bộ khi thuộc một trong các trường hợp sau đây: a) Có nội dung quy định tại điểm a Khoản 1 Điều 10 của Quyết định này và nếu",
-        "entities": [
-            {
-                "text": "điểm a Khoản 1",
-                "label": "LAW",
-                "start": 136,
-                "end": 150
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 36,
@@ -522,18 +467,6 @@
         "text": "Khi có căn cứ quy định tại điểm a hoặc điểm b Khoản 1 Điều này, trong thời hạn 03 ngày làm việc, Ủy ban nhân dân cấp huyện ra quyết định tạm ngừng thực hiện hương ước, quy ước;",
         "entities": [
             {
-                "text": "điểm b Khoản 1 Điều này",
-                "label": "PARTY",
-                "start": 39,
-                "end": 62
-            },
-            {
-                "text": "trong thời hạn 03 ngày",
-                "label": "DATE",
-                "start": 64,
-                "end": 86
-            },
-            {
                 "text": "Ủy ban nhân dân cấp huyện",
                 "label": "PARTY",
                 "start": 97,
@@ -550,18 +483,6 @@
                 "label": "PARTY",
                 "start": 8,
                 "end": 30
-            },
-            {
-                "text": "điểm a Khoản 1",
-                "label": "LAW",
-                "start": 134,
-                "end": 148
-            },
-            {
-                "text": "điểm b Khoản 1",
-                "label": "LAW",
-                "start": 251,
-                "end": 265
             }
         ]
     },
@@ -657,10 +578,10 @@
         "text": "Là Trưởng văn phòng đại diện, dự án hoặc chịu trách nhiệm chính về hoạt động của tổ chức quốc tế, tổ chức phi chính phủ nước ngoài tại Việt Nam.",
         "entities": [
             {
-                "text": "tổ chức quốc",
+                "text": "tổ chức",
                 "label": "PARTY",
                 "start": 81,
-                "end": 93
+                "end": 88
             },
             {
                 "text": "tổ chức",
@@ -894,12 +815,6 @@
         "text": "Có ý kiến đánh giá bằng văn bản về việc lồng ghép vấn đề bình đẳng giới hoặc cử đại diện tham gia Hội đồng thẩm định theo yêu cầu của cơ quan thẩm định văn bản quy phạm pháp luật.",
         "entities": [
             {
-                "text": "Hội đồng thẩm định",
-                "label": "PARTY",
-                "start": 98,
-                "end": 116
-            },
-            {
                 "text": "cơ quan",
                 "label": "PARTY",
                 "start": 134,
@@ -953,10 +868,10 @@
         "text": "Bộ Quốc phòng chủ trì, phối hợp với Bộ Công Thương và Bộ, ngành liên quan lập danh sách các cơ sở công nghiệp quốc phòng trình Thủ tướng Chính phủ phê duyệt trên cơ sở tiêu chí được quy định tại khoản 1 Điều này.",
         "entities": [
             {
-                "text": "Bộ Công Thương và Bộ",
+                "text": "Thủ tướng",
                 "label": "PARTY",
-                "start": 36,
-                "end": 56
+                "start": 127,
+                "end": 136
             },
             {
                 "text": "Chính phủ",
@@ -977,16 +892,16 @@
         "text": "Hàng năm, Bộ Quốc phòng chủ trì, phối hợp với các Bộ, ngành, cơ quan liên quan xác định trình Thủ tướng Chính phủ quyết định việc sửa đổi, bổ sung Danh sách cơ sở công nghiệp quốc phòng.",
         "entities": [
             {
-                "text": "Bộ Quốc phòng",
-                "label": "PARTY",
-                "start": 10,
-                "end": 23
-            },
-            {
                 "text": "cơ quan",
                 "label": "PARTY",
                 "start": 61,
                 "end": 68
+            },
+            {
+                "text": "Thủ tướng",
+                "label": "PARTY",
+                "start": 94,
+                "end": 103
             },
             {
                 "text": "Chính phủ",
@@ -1031,10 +946,10 @@
                 "end": 31
             },
             {
-                "text": "Khoản 3",
+                "text": "Khoản 3 Điều này",
                 "label": "LAW",
                 "start": 130,
-                "end": 137
+                "end": 146
             }
         ]
     },
@@ -1079,12 +994,6 @@
                 "end": 42
             },
             {
-                "text": "22%",
-                "label": "MONEY",
-                "start": 78,
-                "end": 81
-            },
-            {
                 "text": "người lao động",
                 "label": "PARTY",
                 "start": 104,
@@ -1097,21 +1006,15 @@
         "text": "mức thu nhập tháng làm căn cứ đóng bảo hiểm xã hội thấp nhất bằng mức chuẩn hộ nghèo của khu vực nông thôn và cao nhất bằng 20 lần mức lương cơ sở.",
         "entities": [
             {
-                "text": "mức thu nhập tháng làm căn cứ đóng bảo hiểm xã hội thấp nhất",
-                "label": "RATE",
+                "text": "mức thu nhập tháng làm căn cứ",
+                "label": "PENALTY",
                 "start": 0,
-                "end": 60
+                "end": 29
             },
             {
-                "text": "20 lần",
-                "label": "MONEY",
-                "start": 124,
-                "end": 130
-            },
-            {
-                "text": "mức lương cơ sở",
+                "text": "20 lần mức lương cơ sở",
                 "label": "RATE",
-                "start": 131,
+                "start": 124,
                 "end": 146
             }
         ]
@@ -1328,7 +1231,14 @@
     {
         "clause_id": 110,
         "text": "Nước sử dụng ngâm bột phải được thay thường xuyên để đảm bảo vệ sinh và tránh hiện tượng nước có quá nhiều cặn bột ảnh hưởng đến chất lượng bột.",
-        "entities": []
+        "entities": [
+            {
+                "text": "Nước sử dụng ngâm bột",
+                "label": "PARTY",
+                "start": 0,
+                "end": 21
+            }
+        ]
     },
     {
         "clause_id": 111,
@@ -1343,14 +1253,7 @@
     {
         "clause_id": 113,
         "text": "Báo cáo định kỳ: báo cáo tháng, quý và năm về tình hình sử dụng vắc xin, kết quả tiêm chủng, các trường hợp phản ứng thông thường và các trường hợp tai biến nặng sau tiêm chủng.",
-        "entities": [
-            {
-                "text": "thông thường",
-                "label": "PARTY",
-                "start": 117,
-                "end": 129
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 114,
@@ -1506,12 +1409,6 @@
         "text": "b) Trường hợp hồ sơ yêu cầu cung cấp thông tin khách hàng chưa đầy đủ theo quy định tại Nghị định này, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ yêu cầu cung cấp thông tin khách hàng, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài yêu cầu cơ quan nhà nước hoặc người đại diện bổ sung đầy đủ thông tin và tài liệu cần thiết theo đúng quy định tại Nghị định này.",
         "entities": [
             {
-                "text": "trong thời hạn 03 ngày",
-                "label": "DATE",
-                "start": 103,
-                "end": 125
-            },
-            {
                 "text": "tổ chức",
                 "label": "PARTY",
                 "start": 201,
@@ -1522,12 +1419,6 @@
                 "label": "PARTY",
                 "start": 219,
                 "end": 249
-            },
-            {
-                "text": "cơ quan nhà nước",
-                "label": "PARTY",
-                "start": 258,
-                "end": 274
             },
             {
                 "text": "người đại diện",
@@ -1542,16 +1433,10 @@
         "text": "Trường hợp từ chối cung cấp thông tin khách hàng theo quy định tại điểm b khoản 1 Điều 14 Nghị định này hoặc chậm cung cấp thông tin khách hàng do nguyên nhân bất khả kháng, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ yêu cầu cung cấp thông tin khách hàng, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải có văn bản thông báo gửi cơ quan nhà nước trong đó nêu rõ lý do từ chối hoặc chậm cung cấp thông tin khách hàng.",
         "entities": [
             {
-                "text": "điểm b khoản 1 Điều 14",
+                "text": "khoản 1 Điều 14",
                 "label": "LAW",
-                "start": 67,
+                "start": 74,
                 "end": 89
-            },
-            {
-                "text": "trong thời hạn 05 ngày",
-                "label": "DATE",
-                "start": 174,
-                "end": 196
             },
             {
                 "text": "tổ chức",
@@ -1614,22 +1499,16 @@
                 "end": 65
             },
             {
-                "text": "ngày 02 tháng 5 năm 2019 của",
+                "text": "ngày 02 tháng 5 năm 2019",
                 "label": "DATE",
                 "start": 66,
-                "end": 94
+                "end": 90
             },
             {
-                "text": "Bộ trưởng",
+                "text": "Bộ trưởng Bộ",
                 "label": "PARTY",
                 "start": 95,
-                "end": 104
-            },
-            {
-                "text": "Bộ Giáo dục và Đào tạo",
-                "label": "PARTY",
-                "start": 105,
-                "end": 127
+                "end": 107
             }
         ]
     },
@@ -1665,14 +1544,7 @@
     {
         "clause_id": 133,
         "text": "Nhiệm vụ, quyền hạn và trách nhiệm của Điều tra viên 1.",
-        "entities": [
-            {
-                "text": "Điều tra viên",
-                "label": "PARTY",
-                "start": 39,
-                "end": 52
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 134,
@@ -1713,12 +1585,6 @@
                 "label": "LAW",
                 "start": 62,
                 "end": 85
-            },
-            {
-                "text": "Điều tra vụ",
-                "label": "PARTY",
-                "start": 167,
-                "end": 178
             }
         ]
     },
@@ -1739,10 +1605,10 @@
                 "end": 104
             },
             {
-                "text": "Điều tra",
+                "text": "Điều tra,",
                 "label": "PARTY",
                 "start": 139,
-                "end": 147
+                "end": 148
             }
         ]
     },
@@ -1820,12 +1686,6 @@
                 "label": "PARTY",
                 "start": 119,
                 "end": 127
-            },
-            {
-                "text": "thí sinh",
-                "label": "PARTY",
-                "start": 169,
-                "end": 177
             }
         ]
     },
@@ -1936,51 +1796,40 @@
         "text": "Trách nhiệm khi hủy thầu Tổ chức, cá nhân vi phạm quy định pháp luật về đấu thầu dẫn đến hủy thầu theo quy định tại khoản 3 và khoản 4 Điều 17 của Luật này phải đền bù chi phí cho các bên liên quan và bị xử lý theo quy định của pháp luật.",
         "entities": [
             {
-                "text": "Tổ chức,",
+                "text": "Tổ chức",
                 "label": "PARTY",
                 "start": 25,
-                "end": 33
-            },
-            {
-                "text": "khoản 3 và",
-                "label": "LAW",
-                "start": 116,
-                "end": 126
+                "end": 32
             },
             {
                 "text": "khoản 4 Điều 17",
                 "label": "LAW",
                 "start": 127,
                 "end": 142
-            },
-            {
-                "text": "đền bù",
-                "label": "DATE",
-                "start": 161,
-                "end": 167
-            },
-            {
-                "text": "các bên liên quan",
-                "label": "PARTY",
-                "start": 180,
-                "end": 197
             }
         ]
     },
     {
         "clause_id": 149,
         "text": "Phạm vi được hưởng của người tham gia bảo hiểm y tế 1.",
-        "entities": []
+        "entities": [
+            {
+                "text": "người tham gia bảo hiểm y tế",
+                "label": "PARTY",
+                "start": 23,
+                "end": 51
+            }
+        ]
     },
     {
         "clause_id": 150,
         "text": "Người tham gia bảo hiểm y tế được quỹ bảo hiểm y tế chi trả các chi phí sau đây: a) Khám bệnh, chữa bệnh, phục hồi chức năng, khám thai định kỳ, sinh con;",
         "entities": [
             {
-                "text": "Người tham gia bảo",
+                "text": "Người tham gia bảo hiểm y tế",
                 "label": "PARTY",
                 "start": 0,
-                "end": 18
+                "end": 28
             }
         ]
     },
@@ -2007,22 +1856,16 @@
         "text": "Bộ trưởng Bộ Y tế chủ trì, phối hợp với các bộ, ngành liên quan ban hành danh mục và tỷ lệ, điều kiện thanh toán đối với thuốc, hóa chất, vật tư y tế, dịch vụ kỹ thuật y tế thuộc phạm vi được hưởng của người tham gia bảo hiểm y tế.",
         "entities": [
             {
-                "text": "Bộ trưởng",
+                "text": "Bộ trưởng Bộ",
                 "label": "PARTY",
                 "start": 0,
-                "end": 9
+                "end": 12
             },
             {
-                "text": "Bộ Y tế chủ trì",
+                "text": "người tham gia bảo hiểm y tế",
                 "label": "PARTY",
-                "start": 10,
-                "end": 25
-            },
-            {
-                "text": "tỷ lệ, điều kiện thanh toán đối với thuốc, hóa",
-                "label": "RATE",
-                "start": 85,
-                "end": 131
+                "start": 202,
+                "end": 230
             }
         ]
     },
@@ -2031,10 +1874,10 @@
         "text": "Vị trí, chức năng và cơ cấu tổ chức, công chức của Cục Thi hành án dân sự cấp tỉnh ... 4.",
         "entities": [
             {
-                "text": "tổ chức",
+                "text": "tổ chức,",
                 "label": "PARTY",
                 "start": 28,
-                "end": 35
+                "end": 36
             },
             {
                 "text": "công chức",
@@ -2067,16 +1910,10 @@
                 "end": 42
             },
             {
-                "text": "Cục trưởng",
-                "label": "PARTY",
-                "start": 71,
-                "end": 81
-            },
-            {
-                "text": "Tổng cục Thi hành án dân sự và trước",
+                "text": "Tổng cục Thi hành án dân sự",
                 "label": "PARTY",
                 "start": 82,
-                "end": 118
+                "end": 109
             },
             {
                 "text": "Cục Thi hành án dân sự cấp tỉnh",
@@ -2090,6 +1927,12 @@
         "clause_id": 155,
         "text": "Phó Cục trưởng Cục Thi hành án dân sự cấp tỉnh chịu trách nhiệm trước Cục trưởng Cục Thi hành án dân sự cấp tỉnh và trước pháp luật về lĩnh vực công tác được phân công phụ trách.",
         "entities": [
+            {
+                "text": "Phó Cục trưởng",
+                "label": "PARTY",
+                "start": 0,
+                "end": 14
+            },
             {
                 "text": "Cục Thi hành án dân sự cấp tỉnh",
                 "label": "PARTY",
@@ -2139,16 +1982,16 @@
                 "end": 127
             },
             {
-                "text": "Ủy ban nhân dân cùng cấp về",
+                "text": "Ủy ban nhân dân",
                 "label": "PARTY",
                 "start": 156,
-                "end": 183
+                "end": 171
             },
             {
-                "text": "Hội đồng nhân dân cùng cấp theo",
+                "text": "Hội đồng nhân dân",
                 "label": "PARTY",
                 "start": 413,
-                "end": 444
+                "end": 430
             }
         ]
     },
@@ -2157,16 +2000,22 @@
         "text": "Sau khi Hội đồng đã thực hiện xong việc tuyển chọn không phụ thuộc vào kết quả đa số thành viên Hội đồng đồng ý hoặc không đồng ý đề nghị Chánh án Tòa án nhân dân tối cao bổ nhiệm Thẩm phán, thì các hồ sơ và bản sao hồ sơ phải được giao lại cho Chánh án Tòa án nhân dân cấp tỉnh hoặc Chánh án Tòa án quân sự Trung ương để quản lý.",
         "entities": [
             {
-                "text": "Hội đồng đã thực",
+                "text": "Hội đồng đã thực hiện",
                 "label": "PARTY",
                 "start": 8,
-                "end": 24
+                "end": 29
             },
             {
-                "text": "Chánh án Tòa án nhân dân tối cao",
+                "text": "Chánh án",
                 "label": "PARTY",
                 "start": 138,
-                "end": 170
+                "end": 146
+            },
+            {
+                "text": "Tòa án nhân dân tối",
+                "label": "PARTY",
+                "start": 147,
+                "end": 166
             },
             {
                 "text": "Thẩm phán",
@@ -2175,9 +2024,15 @@
                 "end": 189
             },
             {
-                "text": "Chánh án Tòa án nhân dân cấp tỉnh",
+                "text": "Chánh án",
                 "label": "PARTY",
                 "start": 245,
+                "end": 253
+            },
+            {
+                "text": "Tòa án nhân dân cấp tỉnh",
+                "label": "PARTY",
+                "start": 254,
                 "end": 278
             },
             {
@@ -2357,6 +2212,12 @@
                 "label": "LAW",
                 "start": 40,
                 "end": 46
+            },
+            {
+                "text": "khoản 2 Điều này",
+                "label": "LAW",
+                "start": 228,
+                "end": 244
             }
         ]
     },
@@ -2414,6 +2275,12 @@
                 "end": 69
             },
             {
+                "text": "Điều 4",
+                "label": "LAW",
+                "start": 132,
+                "end": 138
+            },
+            {
                 "text": "Ủy ban nhân dân cấp tỉnh",
                 "label": "PARTY",
                 "start": 231,
@@ -2426,22 +2293,22 @@
         "text": "Giá đất cụ thể được sử dụng để làm căn cứ đối với các trường hợp quy định tại Khoản 4 Điều 114, Khoản 2 Điều 172 và Khoản 3 Điều 189 của Luật Đất đai;",
         "entities": [
             {
-                "text": "Khoản 4",
+                "text": "Khoản 4 Điều 114",
                 "label": "LAW",
                 "start": 78,
-                "end": 85
+                "end": 94
             },
             {
-                "text": "Khoản 2",
+                "text": "Khoản 2 Điều 172",
                 "label": "LAW",
                 "start": 96,
-                "end": 103
+                "end": 112
             },
             {
-                "text": "Khoản 3",
+                "text": "Khoản 3 Điều 189",
                 "label": "LAW",
                 "start": 116,
-                "end": 123
+                "end": 132
             },
             {
                 "text": "Luật Đất đai",
@@ -2473,22 +2340,22 @@
         "text": "Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 300.000.000 đồng đến 1.000.000.000 đồng hoặc phạt tù từ 02 năm đến 05 năm: a) Có tổ chức;",
         "entities": [
             {
+                "text": "phạt tiền từ",
+                "label": "PENALTY",
+                "start": 56,
+                "end": 68
+            },
+            {
                 "text": "300.000.000 đồng",
                 "label": "MONEY",
                 "start": 69,
                 "end": 85
             },
             {
-                "text": "1.000.000.000 đồng",
-                "label": "MONEY",
-                "start": 90,
-                "end": 108
-            },
-            {
-                "text": "phạt tù",
-                "label": "PARTY",
+                "text": "phạt tù từ 02 năm đến 05 năm",
+                "label": "PENALTY",
                 "start": 114,
-                "end": 121
+                "end": 142
             },
             {
                 "text": "tổ chức",
@@ -2535,12 +2402,6 @@
                 "label": "PARTY",
                 "start": 28,
                 "end": 36
-            },
-            {
-                "text": "cấm sử dụng",
-                "label": "RATE",
-                "start": 67,
-                "end": 78
             }
         ]
     },
@@ -2565,10 +2426,10 @@
                 "end": 28
             },
             {
-                "text": "cấm sử dụng trị giá từ 300.000.000",
-                "label": "RATE",
-                "start": 59,
-                "end": 93
+                "text": "300.000.000 đồng đến dưới",
+                "label": "MONEY",
+                "start": 82,
+                "end": 107
             },
             {
                 "text": "500.000.000 đồng",
@@ -2577,10 +2438,10 @@
                 "end": 124
             },
             {
-                "text": "200.000.000 đồng",
+                "text": "200.000.000 đồng đến dưới",
                 "label": "MONEY",
                 "start": 151,
-                "end": 167
+                "end": 176
             },
             {
                 "text": "500.000.000 đồng",
@@ -2595,22 +2456,22 @@
         "text": "i) Hàng hóa chưa được phép lưu hành, chưa được phép sử dụng tại Việt Nam trị giá từ 500.000.000 đồng đến dưới 1.000.000.000 đồng hoặc thu lợi bất chính từ 300.000.000 đồng đến dưới 700.000.000 đồng;",
         "entities": [
             {
-                "text": "500.000.000 đồng",
+                "text": "500.000.000 đồng đến dưới",
                 "label": "MONEY",
                 "start": 84,
-                "end": 100
+                "end": 109
             },
             {
-                "text": "1.000.000.000 đồng",
-                "label": "MONEY",
+                "text": "1.000.000.000 đồng hoặc",
+                "label": "RATE",
                 "start": 110,
-                "end": 128
+                "end": 133
             },
             {
-                "text": "300.000.000 đồng",
+                "text": "300.000.000 đồng đến dưới",
                 "label": "MONEY",
                 "start": 155,
-                "end": 171
+                "end": 180
             },
             {
                 "text": "700.000.000 đồng",
@@ -2641,16 +2502,16 @@
                 "end": 14
             },
             {
-                "text": "phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng, cấm đảm nhiệm chức",
+                "text": "phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng",
                 "label": "PENALTY",
                 "start": 29,
-                "end": 97
+                "end": 77
             },
             {
-                "text": "cấm hành nghề hoặc làm công việc nhất",
+                "text": "cấm đảm nhiệm",
                 "label": "RATE",
-                "start": 102,
-                "end": 139
+                "start": 79,
+                "end": 92
             }
         ]
     },
@@ -2667,14 +2528,7 @@
     {
         "clause_id": 207,
         "text": "Con được sinh ra trong thời hạn 300 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân.",
-        "entities": [
-            {
-                "text": "trong thời hạn 300 ngày kể từ",
-                "label": "DATE",
-                "start": 17,
-                "end": 46
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 208,
@@ -2713,30 +2567,17 @@
     {
         "clause_id": 212,
         "text": "Những trường hợp không ra quyết định xử phạt vi phạm hành chính 1.",
-        "entities": [
-            {
-                "text": "xử phạt vi phạm hành chính",
-                "label": "PENALTY",
-                "start": 37,
-                "end": 63
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 213,
         "text": "Không ra quyết định xử phạt vi phạm hành chính trong những trường hợp sau đây: a) Trường hợp quy định tại Điều 11 của Luật này;",
         "entities": [
             {
-                "text": "xử phạt vi phạm hành chính",
-                "label": "PENALTY",
-                "start": 20,
-                "end": 46
-            },
-            {
-                "text": "Điều 11",
+                "text": "Điều 11 của Luật này",
                 "label": "LAW",
                 "start": 106,
-                "end": 113
+                "end": 126
             }
         ]
     },
@@ -2750,22 +2591,10 @@
         "text": "c) Hết thời hiệu xử phạt vi phạm hành chính quy định tại Điều 6 hoặc hết thời hạn ra quyết định xử phạt quy định tại khoản 3 Điều 63 hoặc khoản 1 Điều 66 của Luật này;",
         "entities": [
             {
-                "text": "xử phạt vi phạm hành chính",
-                "label": "PENALTY",
-                "start": 17,
-                "end": 43
-            },
-            {
                 "text": "Điều 6",
                 "label": "LAW",
                 "start": 57,
                 "end": 63
-            },
-            {
-                "text": "xử phạt quy định tại",
-                "label": "PENALTY",
-                "start": 96,
-                "end": 116
             },
             {
                 "text": "khoản 3 Điều 63",
@@ -2796,12 +2625,6 @@
                 "label": "PARTY",
                 "start": 46,
                 "end": 53
-            },
-            {
-                "text": "xử phạt",
-                "label": "PENALTY",
-                "start": 132,
-                "end": 139
             }
         ]
     },
@@ -2820,24 +2643,17 @@
     {
         "clause_id": 218,
         "text": "Đối với trường hợp quy định tại các điểm a, b, c và d khoản 1 Điều này, người có thẩm quyền không ra quyết định xử phạt vi phạm hành chính nhưng",
-        "entities": [
-            {
-                "text": "xử phạt vi phạm hành chính",
-                "label": "PENALTY",
-                "start": 112,
-                "end": 138
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 219,
         "text": "vẫn phải ra quyết định tịch thu tang vật, phương tiện vi phạm hành chính nếu",
         "entities": [
             {
-                "text": "tịch thu tang vật,",
-                "label": "DATE",
+                "text": "tịch thu tang vật, phương tiện",
+                "label": "PENALTY",
                 "start": 23,
-                "end": 41
+                "end": 53
             }
         ]
     },
@@ -2846,24 +2662,17 @@
         "text": "tang vật, phương tiện vi phạm hành chính thuộc loại cấm tàng trữ, cấm lưu hành hoặc tang vật, phương tiện mà pháp luật có quy định hình thức xử phạt tịch thu và áp dụng biện pháp khắc phục hậu quả được quy định đối với hành vi vi phạm hành chính đó.",
         "entities": [
             {
-                "text": "xử phạt",
+                "text": "xử phạt tịch thu và áp dụng biện pháp khắc phục hậu quả được quy định đối với",
                 "label": "PENALTY",
                 "start": 141,
-                "end": 148
+                "end": 218
             }
         ]
     },
     {
         "clause_id": 221,
         "text": "Quyết định phải ghi rõ lý do không ra quyết định xử phạt vi phạm hành chính;",
-        "entities": [
-            {
-                "text": "xử phạt vi phạm hành chính",
-                "label": "PENALTY",
-                "start": 49,
-                "end": 75
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 222,
@@ -2911,12 +2720,6 @@
                 "label": "PARTY",
                 "start": 26,
                 "end": 44
-            },
-            {
-                "text": "Hội đồng giám định y khoa theo quy định",
-                "label": "PARTY",
-                "start": 91,
-                "end": 130
             }
         ]
     },
@@ -2930,16 +2733,10 @@
         "text": "Trường hợp người chưa tham gia bảo hiểm xã hội bị suy giảm khả năng lao động từ 5% trở lên thì được hưởng chế độ trợ cấp một lần, mức trợ cấp do Bộ Công an và Bộ Lao động - Thương binh và Xã hội hướng dẫn cụ thể;",
         "entities": [
             {
-                "text": "5%",
-                "label": "MONEY",
-                "start": 80,
-                "end": 82
-            },
-            {
-                "text": "mức trợ cấp do Bộ",
-                "label": "RATE",
-                "start": 130,
-                "end": 147
+                "text": "Bộ Công an",
+                "label": "PARTY",
+                "start": 145,
+                "end": 155
             },
             {
                 "text": "Bộ Lao động - Thương binh và Xã hội",
@@ -2975,14 +2772,14 @@
                 "end": 80
             },
             {
-                "text": "08 (tám) tháng lương tối thiểu",
-                "label": "DATE",
+                "text": "08 (",
+                "label": "PARTY",
                 "start": 119,
-                "end": 149
+                "end": 123
             },
             {
                 "text": "05 (",
-                "label": "MONEY",
+                "label": "PARTY",
                 "start": 201,
                 "end": 205
             }
@@ -2998,9 +2795,15 @@
         "text": "Thẩm quyền tiêu hủy tài liệu, vật chứa bí mật nhà nước được quy định như sau: a) Người có thẩm quyền quy định tại khoản 1, khoản 2 Điều 4 Quyết định này có thẩm quyền quyết định tiêu hủy tài liệu, vật chứa bí mật nhà nước;",
         "entities": [
             {
-                "text": "khoản 2 Điều 4",
+                "text": "Người có thẩm quyền",
+                "label": "PARTY",
+                "start": 81,
+                "end": 100
+            },
+            {
+                "text": "khoản 1, khoản 2 Điều 4",
                 "label": "LAW",
-                "start": 123,
+                "start": 114,
                 "end": 137
             }
         ]
@@ -3026,14 +2829,7 @@
     {
         "clause_id": 238,
         "text": "không tiêu hủy ngay sẽ gây nguy hại cho lợi ích quốc gia, dân tộc và báo cáo ngay bằng văn bản về việc tiêu hủy với người có thẩm quyền quy định tại điểm a khoản này.",
-        "entities": [
-            {
-                "text": "điểm a khoản này",
-                "label": "LAW",
-                "start": 149,
-                "end": 165
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 239,
@@ -3070,12 +2866,6 @@
                 "end": 82
             },
             {
-                "text": "Chủ tịch",
-                "label": "PARTY",
-                "start": 148,
-                "end": 156
-            },
-            {
                 "text": "Hội đồng;",
                 "label": "PARTY",
                 "start": 157,
@@ -3086,7 +2876,14 @@
     {
         "clause_id": 241,
         "text": "b) Đại diện đơn vị trực thuộc, bộ phận, cá nhân trực tiếp lưu giữ tài liệu, vật chứa bí mật nhà nước;",
-        "entities": []
+        "entities": [
+            {
+                "text": "cá nhân",
+                "label": "PARTY",
+                "start": 40,
+                "end": 47
+            }
+        ]
     },
     {
         "clause_id": 242,
@@ -3217,6 +3014,12 @@
                 "label": "PARTY",
                 "start": 27,
                 "end": 35
+            },
+            {
+                "text": "cá nhân",
+                "label": "PARTY",
+                "start": 36,
+                "end": 43
             }
         ]
     },
@@ -3684,12 +3487,6 @@
         "text": "b) Đối với dự án đầu tư xây dựng mới, nâng cấp, mở rộng đường bộ ngoài phạm vi quy định tại điểm a khoản này hoặc tài sản kết cấu hạ tầng đường bộ khác là bến xe, bãi đỗ xe thì căn cứ tình hình thực tế, cơ quan, người có thẩm quyền quy định tại khoản 4 Điều này quyết định việc khai thác quỹ đất để tạo vốn phát triển tài sản kết cấu hạ tầng giao thông đường bộ.",
         "entities": [
             {
-                "text": "điểm a khoản này",
-                "label": "LAW",
-                "start": 92,
-                "end": 108
-            },
-            {
                 "text": "cơ quan",
                 "label": "PARTY",
                 "start": 203,
@@ -3731,28 +3528,10 @@
         "text": "có) để trình Bộ Giao thông vận tải, Ủy ban nhân dân cấp tỉnh: a) Bộ Giao thông vận tải lấy ý kiến của Bộ Tài chính và cơ quan có liên quan về Đề án khai thác quỹ đất để tạo vốn phát triển tài sản kết cấu hạ tầng giao thông đường bộ thuộc phạm vi quản lý, báo cáo Thủ tướng Chính phủ xem xét, phê duyệt;",
         "entities": [
             {
-                "text": "Bộ Giao thông vận",
-                "label": "PARTY",
-                "start": 13,
-                "end": 30
-            },
-            {
                 "text": "Ủy ban nhân dân cấp tỉnh",
                 "label": "PARTY",
                 "start": 36,
                 "end": 60
-            },
-            {
-                "text": "Bộ Giao thông vận",
-                "label": "PARTY",
-                "start": 65,
-                "end": 82
-            },
-            {
-                "text": "Bộ Tài chính và",
-                "label": "PARTY",
-                "start": 102,
-                "end": 117
             },
             {
                 "text": "cơ quan",
@@ -3779,10 +3558,10 @@
                 "end": 27
             },
             {
-                "text": "Hội đồng nhân dân cùng cấp.",
+                "text": "Hội đồng nhân dân",
                 "label": "PARTY",
                 "start": 180,
-                "end": 207
+                "end": 197
             }
         ]
     },
@@ -3811,16 +3590,10 @@
         "text": "đ) Dự kiến chi phí bồi thường, giải phóng mặt bằng để khai thác quỹ đất theo quy định của pháp luật về bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất;",
         "entities": [
             {
-                "text": "bồi thường,",
-                "label": "PENALTY",
-                "start": 19,
-                "end": 30
-            },
-            {
-                "text": "bồi thường, hỗ trợ và tái định cư khi",
-                "label": "PENALTY",
-                "start": 103,
-                "end": 140
+                "text": "Nhà nước",
+                "label": "PARTY",
+                "start": 141,
+                "end": 149
             }
         ]
     },
@@ -3872,20 +3645,7 @@
     {
         "clause_id": 313,
         "text": "b) Phê duyệt hoặc phân cấp thẩm quyền phê duyệt Phương án bồi thường, hỗ trợ, tái định cư đối với phần diện tích đất thu hồi tại điểm a khoản này theo quy định của pháp luật về đất đai;",
-        "entities": [
-            {
-                "text": "bồi thường, hỗ trợ,",
-                "label": "PENALTY",
-                "start": 58,
-                "end": 77
-            },
-            {
-                "text": "điểm a khoản này theo quy định",
-                "label": "LAW",
-                "start": 129,
-                "end": 159
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 314,
@@ -3896,12 +3656,6 @@
                 "label": "PARTY",
                 "start": 11,
                 "end": 18
-            },
-            {
-                "text": "bồi thường",
-                "label": "PENALTY",
-                "start": 34,
-                "end": 44
             }
         ]
     },
@@ -4050,10 +3804,10 @@
         "text": "Đối với cơ sở giáo dục đại học thuộc Bộ thì Hiệu trưởng (Giám đốc) quyết định thời điểm đánh giá, xếp loại chất lượng viên chức hàng năm của đơn vị theo năm học hoặc theo năm dương lịch;",
         "entities": [
             {
-                "text": "Bộ thì",
+                "text": "Hiệu trưởng",
                 "label": "PARTY",
-                "start": 37,
-                "end": 43
+                "start": 44,
+                "end": 55
             },
             {
                 "text": "viên chức",
@@ -4182,10 +3936,22 @@
                 "end": 76
             },
             {
-                "text": "tổ chức,",
+                "text": "người có năng lực trách nhiệm",
+                "label": "PARTY",
+                "start": 81,
+                "end": 110
+            },
+            {
+                "text": "tổ chức",
                 "label": "PARTY",
                 "start": 378,
-                "end": 386
+                "end": 385
+            },
+            {
+                "text": "Bộ luật này",
+                "label": "LAW",
+                "start": 540,
+                "end": 551
             }
         ]
     },
@@ -4199,10 +3965,10 @@
         "text": "Trừ các khoản chi không được trừ nêu tại Khoản 2 Điều này, doanh nghiệp được trừ mọi khoản chi nếu đáp ứng đủ các điều kiện sau: a) Khoản chi thực tế phát sinh liên quan đến hoạt động sản xuất, kinh doanh của doanh nghiệp.",
         "entities": [
             {
-                "text": "Khoản 2",
+                "text": "Khoản 2 Điều này",
                 "label": "LAW",
                 "start": 45,
-                "end": 52
+                "end": 61
             },
             {
                 "text": "doanh nghiệp",
@@ -4227,10 +3993,10 @@
         "text": "có hoá đơn mua hàng hoá, dịch vụ từng lần có giá trị từ 20 triệu đồng trở lên (giá đã bao gồm thuế GTGT) khi thanh toán phải có chứng từ thanh toán không dùng tiền mặt.",
         "entities": [
             {
-                "text": "20 triệu đồng",
+                "text": "20 triệu đồng trở lên (",
                 "label": "MONEY",
                 "start": 56,
-                "end": 69
+                "end": 79
             }
         ]
     },
@@ -4248,6 +4014,12 @@
         "clause_id": 341,
         "text": "Chi tiền thuê tài sản của cá nhân không có đầy đủ hồ sơ, chứng từ dưới đây: - Trường hợp doanh nghiệp thuê tài sản của cá nhân thì hồ sơ để xác định chi phí được trừ là hợp đồng thuê tài sản và chứng từ trả tiền thuê tài sản.",
         "entities": [
+            {
+                "text": "cá nhân",
+                "label": "PARTY",
+                "start": 26,
+                "end": 33
+            },
             {
                 "text": "cá nhân",
                 "label": "PARTY",
@@ -4333,10 +4105,10 @@
         "text": "Hội đồng khoa học và đào tạo ... 2.",
         "entities": [
             {
-                "text": "Hội đồng khoa học và",
+                "text": "Hội đồng khoa học và đào tạo",
                 "label": "PARTY",
                 "start": 0,
-                "end": 20
+                "end": 28
             }
         ]
     },
@@ -4345,10 +4117,10 @@
         "text": "Hội đồng khoa học và đào tạo có số thành viên lẻ số lẻ từ 11 đến 25 thành viên, gồm: Giám đốc Học viện, một số Phó giám đốc Học viện;",
         "entities": [
             {
-                "text": "Hội đồng khoa học và",
+                "text": "Hội đồng khoa học và đào tạo",
                 "label": "PARTY",
                 "start": 0,
-                "end": 20
+                "end": 28
             }
         ]
     },
@@ -4387,22 +4159,22 @@
         "text": "Số lượng thành viên, tỷ lệ các thành phần và thủ tục lựa chọn các thành viên, việc tổ chức và hoạt động của Hội đồng khoa học và đào tạo do Giám đốc Học viện quyết định.",
         "entities": [
             {
-                "text": "tỷ lệ các thành phần và thủ tục lựa chọn các",
-                "label": "RATE",
-                "start": 21,
-                "end": 65
-            },
-            {
                 "text": "tổ chức",
                 "label": "PARTY",
                 "start": 83,
                 "end": 90
             },
             {
-                "text": "Hội đồng khoa học và",
+                "text": "Hội đồng khoa học và đào tạo",
                 "label": "PARTY",
                 "start": 108,
-                "end": 128
+                "end": 136
+            },
+            {
+                "text": "Giám đốc",
+                "label": "PARTY",
+                "start": 140,
+                "end": 148
             }
         ]
     },
@@ -4434,34 +4206,10 @@
         "text": "Tiền lương của lao động trực tiếp sản xuất và lao động chuyên môn, nghiệp vụ, thừa hành, phục vụ xác định trên cơ sở hệ số lương cấp bậc, hệ số phụ cấp lương của lao động thực hiện sản phẩm, dịch vụ công nhân với mức lương cơ sở do Chính phủ quy định và hệ số điều chỉnh tăng thêm theo từng vùng.",
         "entities": [
             {
-                "text": "hệ số lương cấp bậc, hệ",
-                "label": "RATE",
-                "start": 117,
-                "end": 140
-            },
-            {
-                "text": "phụ cấp lương của",
-                "label": "RATE",
-                "start": 144,
-                "end": 161
-            },
-            {
-                "text": "mức lương cơ sở",
-                "label": "RATE",
-                "start": 213,
-                "end": 228
-            },
-            {
                 "text": "Chính phủ",
                 "label": "PARTY",
                 "start": 232,
                 "end": 241
-            },
-            {
-                "text": "hệ số điều chỉnh",
-                "label": "RATE",
-                "start": 254,
-                "end": 270
             }
         ]
     },
@@ -4492,18 +4240,6 @@
                 "label": "PARTY",
                 "start": 83,
                 "end": 91
-            },
-            {
-                "text": "Hội đồng thành viên",
-                "label": "PARTY",
-                "start": 92,
-                "end": 111
-            },
-            {
-                "text": "Chủ tịch",
-                "label": "PARTY",
-                "start": 117,
-                "end": 125
             }
         ]
     },
@@ -4545,6 +4281,12 @@
                 "label": "PARTY",
                 "start": 0,
                 "end": 13
+            },
+            {
+                "text": "Giám đốc",
+                "label": "PARTY",
+                "start": 19,
+                "end": 27
             }
         ]
     },
@@ -4569,14 +4311,7 @@
     {
         "clause_id": 362,
         "text": "Kế toán trưởng) được xác định trên cơ sở mức lương cơ bản theo hạng tổng công ty và công ty.",
-        "entities": [
-            {
-                "text": "mức lương cơ bản theo hạng tổng",
-                "label": "RATE",
-                "start": 41,
-                "end": 72
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 363,
@@ -4659,12 +4394,6 @@
                 "label": "PARTY",
                 "start": 33,
                 "end": 40
-            },
-            {
-                "text": "hàng ngày",
-                "label": "DATE",
-                "start": 49,
-                "end": 58
             },
             {
                 "text": "Luật Thương mại",
@@ -4752,14 +4481,7 @@
     {
         "clause_id": 383,
         "text": "không thống nhất được thì báo cáo Viện trưởng Viện kiểm sát cấp mình để giải quyết.",
-        "entities": [
-            {
-                "text": "Viện trưởng Viện kiểm sát cấp mình",
-                "label": "PARTY",
-                "start": 34,
-                "end": 68
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 384,
@@ -4820,18 +4542,6 @@
         "text": "Phạm tội trong trường hợp tiền giả có trị giá tương ứng từ 5.000.000 đồng đến dưới 50.000.000 đồng, thì bị phạt tù từ 05 năm đến 12 năm.",
         "entities": [
             {
-                "text": "từ 5.000.000 đồng",
-                "label": "MONEY",
-                "start": 56,
-                "end": 73
-            },
-            {
-                "text": "50.000.000 đồng",
-                "label": "MONEY",
-                "start": 83,
-                "end": 98
-            },
-            {
                 "text": "bị phạt tù từ 05 năm đến 12 năm",
                 "label": "PENALTY",
                 "start": 104,
@@ -4844,10 +4554,10 @@
         "text": "Phạm tội trong trường hợp tiền giả có trị giá tương ứng từ 50.000.000 đồng trở lên, thì bị phạt tù từ 10 năm đến 20 năm hoặc tù chung thân.",
         "entities": [
             {
-                "text": "từ 50.000.000 đồng",
+                "text": "từ 50.000.000 đồng trở lên",
                 "label": "MONEY",
                 "start": 56,
-                "end": 74
+                "end": 82
             },
             {
                 "text": "bị phạt tù từ 10 năm đến 20 năm hoặc tù chung thân",
@@ -4862,16 +4572,16 @@
         "text": "Người chuẩn bị phạm tội này, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 03 năm.",
         "entities": [
             {
-                "text": "cải tạo không",
-                "label": "RATE",
+                "text": "cải tạo không giam giữ đến 03 năm",
+                "label": "PENALTY",
                 "start": 41,
-                "end": 54
+                "end": 74
             },
             {
-                "text": "phạt tù từ 01 năm đến 03 năm.",
+                "text": "phạt tù từ 01 năm đến 03 năm",
                 "label": "PENALTY",
                 "start": 80,
-                "end": 109
+                "end": 108
             }
         ]
     },
@@ -4979,10 +4689,16 @@
         "text": "không được hưởng án treo hoặc không thuộc trường hợp được trả tự do theo quy định tại khoản 5 Điều 328 của Bộ luật Tố tụng hình sự, tử hình hoặc bị cấm làm công việc ghi trong hợp đồng lao động theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật.",
         "entities": [
             {
-                "text": "khoản 5",
+                "text": "khoản 5 Điều 328",
                 "label": "LAW",
                 "start": 86,
-                "end": 93
+                "end": 102
+            },
+            {
+                "text": "Bộ luật Tố tụng hình sự",
+                "label": "LAW",
+                "start": 107,
+                "end": 130
             }
         ]
     },
@@ -5157,10 +4873,10 @@
                 "end": 77
             },
             {
-                "text": "Điều 43",
+                "text": "Điều 43 của Bộ luật này",
                 "label": "LAW",
                 "start": 81,
-                "end": 88
+                "end": 104
             }
         ]
     },
@@ -5175,10 +4891,10 @@
                 "end": 54
             },
             {
-                "text": "Điều 156",
+                "text": "Điều 156 của Bộ luật này",
                 "label": "LAW",
                 "start": 115,
-                "end": 123
+                "end": 139
             }
         ]
     },
@@ -5210,10 +4926,10 @@
                 "end": 22
             },
             {
-                "text": "Điều 13 của Luật này và có 02 năm thực hành chuyên môn tại cơ sở dược",
+                "text": "Điểm a Khoản 1 Điều 13 của Luật này",
                 "label": "LAW",
-                "start": 112,
-                "end": 181
+                "start": 97,
+                "end": 132
             }
         ]
     },
@@ -5245,10 +4961,10 @@
                 "end": 22
             },
             {
-                "text": "Điều 13 của Luật này và có 18 tháng thực hành chuyên môn tại cơ sở dược",
+                "text": "Điểm a, e hoặc g Khoản 1 Điều 13 của Luật này",
                 "label": "LAW",
-                "start": 137,
-                "end": 208
+                "start": 112,
+                "end": 157
             }
         ]
     },
@@ -5263,10 +4979,10 @@
                 "end": 22
             },
             {
-                "text": "Điều 13 của Luật này và có 01 năm thực hành chuyên môn tại cơ sở dược",
+                "text": "Điểm a, e, g hoặc k Khoản 1 Điều 13 của Luật này",
                 "label": "LAW",
-                "start": 151,
-                "end": 220
+                "start": 123,
+                "end": 171
             }
         ]
     },
@@ -5275,16 +4991,16 @@
         "text": "trường hợp trạm y tế xã ở vùng đồng bào dân tộc thiểu số, miền núi, hải đảo, vùng có Điều kiện kinh tế - xã hội đặc biệt khó khăn mà chưa có người đáp ứng một trong các văn bằng chuyên môn quy định tại Điểm a, e, g hoặc k Khoản 1 Điều 13 của Luật này thì phải có văn bằng chuyên môn quy định tại Điểm b hoặc Điểm h Khoản 1 Điều 13 của Luật này và có 01 năm thực hành chuyên môn tại cơ sở khám bệnh, chữa bệnh.",
         "entities": [
             {
-                "text": "Điều 13 của Luật này thì phải có văn bằng chuyên môn quy định tại Điểm b hoặc Điểm h Khoản 1",
+                "text": "Điểm a, e, g hoặc k Khoản 1 Điều 13 của Luật này",
                 "label": "LAW",
-                "start": 230,
-                "end": 322
+                "start": 202,
+                "end": 250
             },
             {
-                "text": "Điều 13 của Luật này và có 01 năm thực hành chuyên môn tại cơ sở khám bệnh, chữa bệnh",
+                "text": "Điểm b hoặc Điểm h Khoản 1 Điều 13 của Luật này",
                 "label": "LAW",
-                "start": 323,
-                "end": 408
+                "start": 296,
+                "end": 343
             }
         ]
     },
@@ -5299,15 +5015,15 @@
                 "end": 22
             },
             {
-                "text": "Điều 13 của Luật này và có 01 năm thực hành chuyên môn tại cơ sở dược",
+                "text": "Điểm a, c, e, g, i hoặc l Khoản 1 Điều 13 của Luật này",
                 "label": "LAW",
-                "start": 199,
-                "end": 268
+                "start": 165,
+                "end": 219
             },
             {
-                "text": "Điều 13 của Luật này",
+                "text": "Khoản 2 Điều 13 của Luật này",
                 "label": "LAW",
-                "start": 366,
+                "start": 358,
                 "end": 386
             }
         ]
@@ -5453,6 +5169,12 @@
                 "end": 7
             },
             {
+                "text": "cá nhân",
+                "label": "PARTY",
+                "start": 31,
+                "end": 38
+            },
+            {
                 "text": "tổ chức,",
                 "label": "PARTY",
                 "start": 110,
@@ -5499,6 +5221,12 @@
                 "label": "PARTY",
                 "start": 195,
                 "end": 202
+            },
+            {
+                "text": "cá nhân",
+                "label": "PARTY",
+                "start": 226,
+                "end": 233
             }
         ]
     },
@@ -5513,10 +5241,10 @@
                 "end": 7
             },
             {
-                "text": "tổ chức,",
+                "text": "tổ chức, cá",
                 "label": "PARTY",
                 "start": 24,
-                "end": 32
+                "end": 35
             }
         ]
     },
@@ -5588,14 +5316,7 @@
     {
         "clause_id": 448,
         "text": "Hội đồng coi thi kỳ thi chọn học sinh giỏi quốc gia ... 4.",
-        "entities": [
-            {
-                "text": "Hội đồng coi thi",
-                "label": "PARTY",
-                "start": 0,
-                "end": 16
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 449,
@@ -5610,19 +5331,19 @@
     {
         "clause_id": 451,
         "text": "Trong trường hợp cần thiết, chỉ lãnh đạo Hội đồng coi thi được liên hệ bằng điện thoại cố định, có loa ngoài dưới sự giám sát của công an, bảo vệ (phải lập biên bản về địa chỉ và nội dung liên hệ);",
-        "entities": [
-            {
-                "text": "Hội đồng coi thi",
-                "label": "PARTY",
-                "start": 41,
-                "end": 57
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 452,
         "text": "...Hội đồng coi thi ... 6.",
-        "entities": []
+        "entities": [
+            {
+                "text": "coi thi",
+                "label": "PARTY",
+                "start": 12,
+                "end": 19
+            }
+        ]
     },
     {
         "clause_id": 453,
@@ -5632,14 +5353,7 @@
     {
         "clause_id": 454,
         "text": "Trong trường hợp cần thiết, chỉ lãnh đạo Hội đồng coi thi được liên hệ bằng điện thoại cố định hoặc máy fax dùng cho Hội đồng coi thi, dưới sự giám sát của công an, bảo vệ (phải lập biên bản về địa chỉ và nội dung liên hệ).",
-        "entities": [
-            {
-                "text": "Hội đồng coi thi",
-                "label": "PARTY",
-                "start": 41,
-                "end": 57
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 455,
@@ -5706,14 +5420,7 @@
     {
         "clause_id": 462,
         "text": "b) Trường hợp đã thụ lý vụ án thì Tòa án căn cứ vào khoản 2 Điều 192 Bộ luật tố tụng dân sự ra quyết định đình chỉ giải quyết vụ án dân sự, xóa tên vụ án đó trong sổ thụ lý;",
-        "entities": [
-            {
-                "text": "Bộ luật tố tụng dân sự",
-                "label": "LAW",
-                "start": 69,
-                "end": 91
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 463,
@@ -5741,24 +5448,17 @@
     {
         "clause_id": 465,
         "text": "c) Khi trả lại đơn khởi kiện hoặc đình chỉ giải quyết vụ án dân sự nêu trên, Tòa án phải hướng dẫn cho người khởi kiện có thể yêu cầu cơ quan chức năng giải quyết theo thẩm quyền buộc người chiếm giữ bất hợp pháp giấy tờ nêu trên phải trả lại cho chủ sở hữu, người chiếm hữu hợp pháp đối với loại giấy tờ đó.",
-        "entities": [
-            {
-                "text": "quan chức",
-                "label": "PARTY",
-                "start": 137,
-                "end": 146
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 466,
         "text": "Trong trường hợp giấy tờ bị mất thì chủ sở hữu, người chiếm hữu hợp pháp đối với loại giấy tờ nêu trên có quyền đề nghị cơ quan chức năng có thẩm quyền cấp lại giấy tờ bị mất theo quy định của pháp luật (ví dụ: yêu cầu cấp lại Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở bị mất theo quy định tại Điều 24 Nghị định số 88/2009/NĐ-CP ngày 19/10/2009 của Chính phủ “về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất”).",
         "entities": [
             {
-                "text": "cơ quan chức năng",
+                "text": "chủ sở hữu",
                 "label": "PARTY",
-                "start": 120,
-                "end": 137
+                "start": 36,
+                "end": 46
             },
             {
                 "text": "Điều 24",
@@ -5795,12 +5495,6 @@
                 "label": "PARTY",
                 "start": 194,
                 "end": 210
-            },
-            {
-                "text": "bồi thường thiệt hại",
-                "label": "PENALTY",
-                "start": 396,
-                "end": 416
             }
         ]
     },
@@ -5830,12 +5524,6 @@
         "clause_id": 471,
         "text": "Người đồng phạm bao gồm người tổ chức, người thực hành, người xúi giục, người giúp sức.",
         "entities": [
-            {
-                "text": "Người đồng phạm bao",
-                "label": "PARTY",
-                "start": 0,
-                "end": 19
-            },
             {
                 "text": "tổ chức",
                 "label": "PARTY",
@@ -5922,10 +5610,10 @@
                 "end": 176
             },
             {
-                "text": "Điều 389",
+                "text": "Điều 389 của Bộ luật này",
                 "label": "LAW",
                 "start": 285,
-                "end": 293
+                "end": 309
             }
         ]
     },
@@ -6057,10 +5745,10 @@
                 "end": 75
             },
             {
-                "text": "Điều 2",
+                "text": "Điều 2 của Quyết định",
                 "label": "LAW",
                 "start": 117,
-                "end": 123
+                "end": 138
             },
             {
                 "text": "Tổ chức",
@@ -6122,7 +5810,14 @@
     {
         "clause_id": 499,
         "text": "Phó Chủ nhiệm Thường trực Ủy ban Kiểm tra Đảng ủy Công an Trung ương;",
-        "entities": []
+        "entities": [
+            {
+                "text": "Phó Chủ nhiệm",
+                "label": "PARTY",
+                "start": 0,
+                "end": 13
+            }
+        ]
     },
     {
         "clause_id": 500,
@@ -6196,12 +5891,6 @@
         "text": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng khi vi phạm với mỗi người lao động đối với người sử dụng lao động có một trong các hành vi: a) Không tham khảo ý kiến của người lao động là người khuyết tật khi quyết định những vấn đề liên quan đến quyền và lợi ích của họ;",
         "entities": [
             {
-                "text": "5.000.000 đồng",
-                "label": "MONEY",
-                "start": 13,
-                "end": 27
-            },
-            {
                 "text": "người lao động",
                 "label": "PARTY",
                 "start": 68,
@@ -6243,12 +5932,6 @@
         "clause_id": 510,
         "text": "Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với người sử dụng lao động có hành vi sử dụng người lao động cao tuổi làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm có ảnh hưởng xấu tới sức khỏe người lao động cao tuổi, trừ trường hợp bảo đảm các điều kiện làm việc an toàn.",
         "entities": [
-            {
-                "text": "từ 10.000.000 đồng",
-                "label": "MONEY",
-                "start": 10,
-                "end": 28
-            },
             {
                 "text": "người sử dụng lao động",
                 "label": "PARTY",
@@ -6321,14 +6004,7 @@
     {
         "clause_id": 518,
         "text": "bổ nhiệm, bổ nhiệm lại, miễn nhiệm, từ chức, khen thưởng, kỷ luật Chủ tịch và thành viên Hội đồng thành viên, Kiểm soát viên Tổng công ty.",
-        "entities": [
-            {
-                "text": "Chủ tịch",
-                "label": "LAW",
-                "start": 66,
-                "end": 74
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 519,
@@ -6348,14 +6024,7 @@
     {
         "clause_id": 522,
         "text": "quyết định mức lương đối với Chủ tịch và thành viên Hội đồng thành viên, Kiểm soát viên Tổng công ty.",
-        "entities": [
-            {
-                "text": "mức lương đối với Chủ",
-                "label": "RATE",
-                "start": 11,
-                "end": 32
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 523,
@@ -6432,14 +6101,7 @@
     {
         "clause_id": 536,
         "text": "Hợp đồng phụ là hợp đồng mà hiệu lực phụ thuộc vào hợp đồng chính.",
-        "entities": [
-            {
-                "text": "phụ là hợp đồng mà hiệu lực phụ",
-                "label": "RATE",
-                "start": 9,
-                "end": 40
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 537,
@@ -6505,7 +6167,14 @@
     {
         "clause_id": 545,
         "text": "Sửa chữa sổ kế toán trong trường hợp ghi sổ bằng phương tiện điện tử được thực hiện theo phương pháp quy định tại điểm c khoản 1 Điều này.",
-        "entities": []
+        "entities": [
+            {
+                "text": "khoản 1 Điều này",
+                "label": "LAW",
+                "start": 121,
+                "end": 137
+            }
+        ]
     },
     {
         "clause_id": 546,
@@ -6520,68 +6189,29 @@
     {
         "clause_id": 548,
         "text": "thí sinh nộp đơn phúc khảo tại nơi ĐKDT.",
-        "entities": [
-            {
-                "text": "thí sinh",
-                "label": "PARTY",
-                "start": 0,
-                "end": 8
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 549,
         "text": "Nơi thí sinh ĐKDT nhận đơn phúc khảo của thí sinh trong thời hạn 10 ngày kể từ ngày công bố điểm thi và chuyển dữ liệu thí sinh có đơn phúc khảo bài thi đến Hội đồng thi.",
-        "entities": [
-            {
-                "text": "trong thời hạn 10 ngày",
-                "label": "DATE",
-                "start": 50,
-                "end": 72
-            },
-            {
-                "text": "Hội đồng thi",
-                "label": "PARTY",
-                "start": 157,
-                "end": 169
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 550,
         "text": "Trong thời hạn 15 ngày kể từ ngày hết hạn nhận đơn phúc khảo, Hội đồng thi phải công bố và thông báo kết quả phúc khảo cho thí sinh.",
         "entities": [
             {
-                "text": "Trong thời hạn 15 ngày kể từ",
+                "text": "15 ngày kể từ",
                 "label": "DATE",
-                "start": 0,
+                "start": 15,
                 "end": 28
-            },
-            {
-                "text": "Hội đồng thi",
-                "label": "PARTY",
-                "start": 62,
-                "end": 74
-            },
-            {
-                "text": "thí sinh",
-                "label": "PARTY",
-                "start": 123,
-                "end": 131
             }
         ]
     },
     {
         "clause_id": 551,
         "text": "Trước khi bàn giao bài thi cho các Ban Phúc khảo, Ban Thư ký Hội đồng thi tiến hành các việc sau đây: a) Tra cứu từ số báo danh để tìm ra số phách bài thi tự luận hoặc phiếu TLTN của thí sinh có đơn phúc khảo;",
-        "entities": [
-            {
-                "text": "Hội đồng thi",
-                "label": "PARTY",
-                "start": 61,
-                "end": 73
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 552,
@@ -6596,14 +6226,7 @@
     {
         "clause_id": 554,
         "text": "c) Đối với bài thi tự luận: Bàn giao bài thi của thí sinh có đơn phúc khảo cho Ban Làm phách để làm phách;",
-        "entities": [
-            {
-                "text": "thí sinh",
-                "label": "PARTY",
-                "start": 49,
-                "end": 57
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 555,
@@ -6613,14 +6236,7 @@
     {
         "clause_id": 556,
         "text": "d) Việc giao nhận bài thi giữa Ban Thư ký Hội đồng thi và Ban Phúc khảo bài thi tự luận thực hiện theo quy định tại Điều 27 Quy chế này;",
-        "entities": [
-            {
-                "text": "Hội đồng thi",
-                "label": "PARTY",
-                "start": 42,
-                "end": 54
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 557,
@@ -6632,10 +6248,10 @@
         "text": "Giới thiệu chung về ngành, nghề Lái tàu đường sắt trình độ trung cấp là ngành, nghề mà người hành nghề trực tiếp trực tiếp lái đầu máy kéo các đoàn tàu khách, đoàn tàu hàng để phục vụ nhu cầu đi lại của hành khách và vận chuyển hàng hoá lưu thông trên các tuyến đường sắt trong phạm vi cả nước, đáp ứng được yêu cầu bậc 4 trong Khung trình độ quốc gia Việt Nam.",
         "entities": [
             {
-                "text": "người hành nghề trực tiếp",
+                "text": "người hành nghề trực",
                 "label": "PARTY",
                 "start": 88,
-                "end": 113
+                "end": 108
             }
         ]
     },
@@ -6682,20 +6298,7 @@
     {
         "clause_id": 563,
         "text": "Tỷ lệ thời lượng phát sóng phim truyện Việt Nam của mỗi đài truyền hình đạt ít nhất 30% so với tổng số thời lượng phát sóng phim, trong tỷ lệ đó phim truyện Việt Nam phải được phát sóng vào khoảng thời gian từ 20 giờ đến 22 giờ trong ngày, ngoài ra còn có thể phát sóng vào các giờ khác.",
-        "entities": [
-            {
-                "text": "30% so với",
-                "label": "RATE",
-                "start": 84,
-                "end": 94
-            },
-            {
-                "text": "tỷ lệ đó phim truyện Việt Nam phải được phát sóng vào khoảng thời gian từ 20 giờ đến 22 giờ trong ngày, ngoài ra còn có thể phát sóng vào các giờ khác.",
-                "label": "RATE",
-                "start": 136,
-                "end": 287
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 564,
@@ -6705,14 +6308,7 @@
     {
         "clause_id": 565,
         "text": "giờ phát sóng phim dành cho trẻ em dưới 16 tuổi kết thúc trước 22 giờ hàng ngày.”",
-        "entities": [
-            {
-                "text": "hàng ngày",
-                "label": "DATE",
-                "start": 70,
-                "end": 79
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 566,
@@ -6752,12 +6348,6 @@
                 "label": "PARTY",
                 "start": 54,
                 "end": 61
-            },
-            {
-                "text": "Hội đồng xét tặng",
-                "label": "PARTY",
-                "start": 158,
-                "end": 175
             }
         ]
     },
@@ -6788,12 +6378,6 @@
                 "label": "PARTY",
                 "start": 0,
                 "end": 7
-            },
-            {
-                "text": "Hội đồng xét tặng",
-                "label": "PARTY",
-                "start": 155,
-                "end": 172
             }
         ]
     },
@@ -6880,16 +6464,22 @@
         "text": "Kết quả xét tặng giải thưởng được Hội đồng xét tặng Giải thưởng cấp nhà nước gửi Ban Thi đua - Khen thưởng Trung ương để tổng hợp hồ sơ, trình Thủ tướng Chính phủ xem xét, đề nghị Chủ tịch nước quyết định tặng Giải thưởng.",
         "entities": [
             {
+                "text": "Thủ tướng",
+                "label": "PARTY",
+                "start": 143,
+                "end": 152
+            },
+            {
                 "text": "Chính phủ",
                 "label": "PARTY",
                 "start": 153,
                 "end": 162
             },
             {
-                "text": "Chủ tịch nước quyết định",
+                "text": "Chủ tịch",
                 "label": "PARTY",
                 "start": 180,
-                "end": 204
+                "end": 188
             }
         ]
     },
@@ -7041,6 +6631,12 @@
                 "label": "PARTY",
                 "start": 0,
                 "end": 14
+            },
+            {
+                "text": "Khoản 1 và Khoản 2 Điều 2 của Nghị định này",
+                "label": "LAW",
+                "start": 28,
+                "end": 71
             }
         ]
     },
@@ -7055,16 +6651,10 @@
                 "end": 112
             },
             {
-                "text": "Khoản 3",
+                "text": "Khoản 3 Điều 54",
                 "label": "LAW",
                 "start": 200,
-                "end": 207
-            },
-            {
-                "text": "15 năm đóng bảo",
-                "label": "DATE",
-                "start": 252,
-                "end": 267
+                "end": 215
             }
         ]
     },
@@ -7081,14 +6671,7 @@
     {
         "clause_id": 593,
         "text": "d) Người đang bị mắc một trong những bệnh nguy hiểm đến tính mạng như ung thư, bại liệt, xơ gan cổ chướng, phong, lao nặng, nhiễm HIV đã chuyển sang giai đoạn AIDS và những bệnh khác theo quy định của Bộ Y tế;",
-        "entities": [
-            {
-                "text": "Bộ Y tế;",
-                "label": "PARTY",
-                "start": 201,
-                "end": 209
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 594,
@@ -7100,10 +6683,16 @@
         "text": "Nguồn kinh phí Năm 2004 và năm 2005, nguồn kinh phí thực hiện chế độ phụ cấp trách nhiệm đối với Chánh án Tòa án nhân dân tối cao, Thẩm phán, Thư ký Tòa án và Thẩm tra viên ngành Tòa án thực hiện theo quy định tại Thông tư số 02/2005/TT-BTC ngày 06/01/2005 của Bộ Tài chính về việc hướng dẫn xác định nhu cầu, nguồn và phương thức thực hiện cải cách tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang.",
         "entities": [
             {
-                "text": "Tòa án nhân dân tối cao",
+                "text": "Chánh án",
+                "label": "PARTY",
+                "start": 97,
+                "end": 105
+            },
+            {
+                "text": "Tòa án nhân dân tối",
                 "label": "PARTY",
                 "start": 106,
-                "end": 129
+                "end": 125
             },
             {
                 "text": "Thông tư số 02/2005/TT-BTC",
@@ -7116,12 +6705,6 @@
                 "label": "DATE",
                 "start": 241,
                 "end": 256
-            },
-            {
-                "text": "Bộ Tài chính",
-                "label": "PARTY",
-                "start": 261,
-                "end": 273
             },
             {
                 "text": "công chức",
@@ -7142,22 +6725,16 @@
         "text": "Từ năm 2006 trở đi, kinh phí thực hiện chế độ phụ cấp trách nhiệm đối với Chánh án Tòa án nhân dân tối cao, Thẩm phán, Thư ký Tòa án và Thẩm tra viên ngành Tòa án được bố trí trong dự toán ngân sách hàng năm của ngành Tòa án nhân dân.",
         "entities": [
             {
-                "text": "Tòa án nhân dân tối cao",
+                "text": "Chánh án",
+                "label": "PARTY",
+                "start": 74,
+                "end": 82
+            },
+            {
+                "text": "Tòa án nhân dân tối",
                 "label": "PARTY",
                 "start": 83,
-                "end": 106
-            },
-            {
-                "text": "hàng năm của ngành",
-                "label": "DATE",
-                "start": 199,
-                "end": 217
-            },
-            {
-                "text": "Tòa án nhân dân",
-                "label": "PARTY",
-                "start": 218,
-                "end": 233
+                "end": 102
             }
         ]
     },
@@ -7166,10 +6743,16 @@
         "text": "Cách chi trả a. Phụ cấp trách nhiệm đối với Chánh án Tòa án nhân dân tối cao, Thẩm phán, Thư ký Tòa án và Thẩm tra viên thuộc biên chế trả lương của Tòa án nào thì do Tòa án đó chi trả;",
         "entities": [
             {
-                "text": "Tòa án nhân dân tối cao",
+                "text": "Chánh án",
+                "label": "PARTY",
+                "start": 44,
+                "end": 52
+            },
+            {
+                "text": "Tòa án nhân dân tối",
                 "label": "PARTY",
                 "start": 53,
-                "end": 76
+                "end": 72
             }
         ]
     },
@@ -7337,14 +6920,7 @@
     {
         "clause_id": 616,
         "text": "Lãnh đạo Cục 1.",
-        "entities": [
-            {
-                "text": "Cục 1",
-                "label": "PARTY",
-                "start": 9,
-                "end": 14
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 617,
@@ -7375,10 +6951,10 @@
         "text": "Phó Cục trưởng chịu trách nhiệm trước Cục trưởng và trước pháp luật về nhiệm vụ được phân công.",
         "entities": [
             {
-                "text": "Cục trưởng",
+                "text": "Phó Cục trưởng",
                 "label": "PARTY",
-                "start": 38,
-                "end": 48
+                "start": 0,
+                "end": 14
             }
         ]
     },
@@ -7391,12 +6967,6 @@
                 "label": "PARTY",
                 "start": 37,
                 "end": 47
-            },
-            {
-                "text": "Bộ Tài chính",
-                "label": "PARTY",
-                "start": 194,
-                "end": 206
             }
         ]
     },
@@ -7682,16 +7252,16 @@
         "text": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau: a) Không hướng dẫn hoặc hướng dẫn không đúng hoặc không đầy đủ bằng văn bản theo quy định cho tổ chức, cá nhân xin cấp chứng thư số trước khi ký hợp đồng cấp chứng thư số;",
         "entities": [
             {
-                "text": "5.000.000 đồng",
-                "label": "MONEY",
-                "start": 13,
-                "end": 27
-            },
-            {
                 "text": "tổ chức,",
                 "label": "PARTY",
                 "start": 177,
                 "end": 185
+            },
+            {
+                "text": "cá nhân",
+                "label": "PARTY",
+                "start": 186,
+                "end": 193
             }
         ]
     },
@@ -7716,10 +7286,22 @@
                 "end": 28
             },
             {
+                "text": "cá nhân",
+                "label": "PARTY",
+                "start": 29,
+                "end": 36
+            },
+            {
                 "text": "tổ chức,",
                 "label": "PARTY",
                 "start": 95,
                 "end": 103
+            },
+            {
+                "text": "cá nhân",
+                "label": "PARTY",
+                "start": 104,
+                "end": 111
             }
         ]
     },
@@ -7758,10 +7340,10 @@
         "text": "Mức phạt tiền quy định từ Chương II đến Chương VII tại Nghị định này được áp dụng đối với hành vi vi phạm hành chính của tổ chức, trừ quy định tại Điều 106 Nghị định này.",
         "entities": [
             {
-                "text": "tổ chức,",
+                "text": "tổ chức",
                 "label": "PARTY",
                 "start": 121,
-                "end": 129
+                "end": 128
             },
             {
                 "text": "Điều 106",
@@ -7833,12 +7415,6 @@
                 "label": "PARTY",
                 "start": 33,
                 "end": 54
-            },
-            {
-                "text": "mức trợ cấp một lần bằng",
-                "label": "RATE",
-                "start": 179,
-                "end": 203
             },
             {
                 "text": "2.500.000 đồng",
@@ -7926,12 +7502,6 @@
                 "label": "PARTY",
                 "start": 26,
                 "end": 47
-            },
-            {
-                "text": "540.000 đồng",
-                "label": "MONEY",
-                "start": 165,
-                "end": 177
             }
         ]
     },
@@ -8036,12 +7606,6 @@
         "text": "Thành phần tham dự cuộc họp tư vấn thẩm định bao gồm đại diện Bộ Tư pháp, Bộ Công an và các cơ quan, tổ chức có liên quan.",
         "entities": [
             {
-                "text": "Bộ Công an và các",
-                "label": "PARTY",
-                "start": 74,
-                "end": 91
-            },
-            {
                 "text": "cơ quan",
                 "label": "PARTY",
                 "start": 92,
@@ -8059,12 +7623,6 @@
         "clause_id": 669,
         "text": "Trong thời hạn 12 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tư pháp có trách nhiệm gửi văn bản thẩm định cho cơ quan chủ quản và Bộ Kế hoạch và Đầu tư.",
         "entities": [
-            {
-                "text": "Trong thời hạn 12 ngày",
-                "label": "DATE",
-                "start": 0,
-                "end": 22
-            },
             {
                 "text": "cơ quan",
                 "label": "PARTY",
@@ -8190,12 +7748,6 @@
         "text": "Tham gia bồi dưỡng nghiệp vụ Thừa phát lại hàng năm theo quy định của Bộ trưởng Bộ Tư pháp.",
         "entities": [
             {
-                "text": "hàng năm theo quy định",
-                "label": "DATE",
-                "start": 43,
-                "end": 65
-            },
-            {
                 "text": "Bộ trưởng Bộ",
                 "label": "PARTY",
                 "start": 70,
@@ -8271,16 +7823,34 @@
                 "end": 216
             },
             {
+                "text": "Điều 6",
+                "label": "LAW",
+                "start": 218,
+                "end": 224
+            },
+            {
                 "text": "Điều 7",
                 "label": "LAW",
                 "start": 226,
                 "end": 232
             },
             {
-                "text": "Điều 11",
+                "text": "Điều 8",
+                "label": "LAW",
+                "start": 234,
+                "end": 240
+            },
+            {
+                "text": "Điều 9",
+                "label": "LAW",
+                "start": 242,
+                "end": 248
+            },
+            {
+                "text": "Điều 11 của Thông tư này",
                 "label": "LAW",
                 "start": 252,
-                "end": 259
+                "end": 276
             }
         ]
     },
@@ -8299,10 +7869,10 @@
         "text": "Đổi tên quỹ: a) Việc đổi tên quỹ phải có nghị quyết của Hội đồng quản lý quỹ, ý kiến đồng ý bằng văn bản của sáng lập viên hoặc người đại diện hợp pháp của sáng lập viên (nếu",
         "entities": [
             {
-                "text": "Hội đồng quản lý",
+                "text": "Hội đồng quản lý quỹ",
                 "label": "PARTY",
                 "start": 56,
-                "end": 72
+                "end": 76
             },
             {
                 "text": "người đại diện",
@@ -8329,10 +7899,10 @@
         "text": "nghị quyết của Hội đồng quản lý về việc đổi tên quỹ;",
         "entities": [
             {
-                "text": "Hội đồng quản lý",
+                "text": "Hội đồng quản lý về",
                 "label": "PARTY",
                 "start": 15,
-                "end": 31
+                "end": 34
             }
         ]
     },
@@ -8358,10 +7928,10 @@
         "text": "c) Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền quy định tại Điều 18 Nghị định này xem xét và quyết định cấp lại giấy phép về việc đổi tên quỹ và công nhận điều lệ quỹ;",
         "entities": [
             {
-                "text": "15 ngày",
+                "text": "15 ngày làm việc",
                 "label": "DATE",
                 "start": 18,
-                "end": 25
+                "end": 34
             },
             {
                 "text": "cơ quan nhà nước",
@@ -8391,10 +7961,10 @@
         "text": "Khi các quy định, tiêu chuẩn và quy chuẩn kỹ thuật quốc gia liên quan đến kiểu loại sản phẩm đã được chứng nhận thay đổi hoặc khi sản phẩm có các thay đổi ảnh hưởng tới sự phù hợp của kiểu loại sản phẩm đó so với quy định, tiêu chuẩn và quy chuẩn kỹ thuật quốc gia tương ứng thì cơ sở sản xuất phải tiến hành kiểm tra, thử nghiệm lại kiểu loại sản phẩm theo các quy định, tiêu chuẩn và quy chuẩn kỹ thuật quốc gia mới.",
         "entities": [
             {
-                "text": "cơ sở sản xuất",
+                "text": "cơ sở sản",
                 "label": "PARTY",
                 "start": 279,
-                "end": 293
+                "end": 288
             }
         ]
     },
@@ -8402,12 +7972,6 @@
         "clause_id": 705,
         "text": "Trong trường hợp này, Cơ sở sản xuất phải nộp bổ sung cho Cục Đăng kiểm Việt Nam các tài liệu sau: a) Tài liệu liên quan tới sự thay đổi của sản phẩm;",
         "entities": [
-            {
-                "text": "Cơ sở sản xuất",
-                "label": "PARTY",
-                "start": 22,
-                "end": 36
-            },
             {
                 "text": "Cục Đăng kiểm Việt Nam",
                 "label": "PARTY",
@@ -8438,17 +8002,30 @@
         "text": "Thủ tục cấp Giấy chứng nhận được thực hiện theo quy định tại Điều 13 của Thông tư này.",
         "entities": [
             {
-                "text": "Điều 13",
+                "text": "Điều 13 của Thông tư này",
                 "label": "LAW",
                 "start": 61,
-                "end": 68
+                "end": 85
             }
         ]
     },
     {
         "clause_id": 709,
         "text": "Đối với cá nhân nước ngoài quy định tại điểm c khoản 1 Điều 159 của Luật này thì phải được phép nhập cảnh vào Việt Nam và không thuộc diện được hưởng quyền ưu đãi, miễn trừ ngoại giao, lãnh sự theo quy định của pháp luật.",
-        "entities": []
+        "entities": [
+            {
+                "text": "cá nhân",
+                "label": "PARTY",
+                "start": 8,
+                "end": 15
+            },
+            {
+                "text": "khoản 1 Điều 159 của Luật này",
+                "label": "LAW",
+                "start": 47,
+                "end": 76
+            }
+        ]
     },
     {
         "clause_id": 710,
@@ -8517,24 +8094,17 @@
     {
         "clause_id": 720,
         "text": "Chủ tịch nước quyết định việc thăng cấp bậc hàm trước thời hạn và thăng cấp bậc hàm vượt bậc đối với cấp bậc hàm cấp tướng.",
-        "entities": [
-            {
-                "text": "Chủ tịch nước quyết định",
-                "label": "PARTY",
-                "start": 0,
-                "end": 24
-            }
-        ]
+        "entities": []
     },
     {
         "clause_id": 721,
         "text": "Bộ trưởng Bộ Công an quyết định việc thăng cấp bậc hàm trước thời hạn và thăng cấp bậc hàm vượt bậc từ Đại tá trở xuống.",
         "entities": [
             {
-                "text": "Bộ trưởng",
+                "text": "Bộ trưởng Bộ",
                 "label": "PARTY",
                 "start": 0,
-                "end": 9
+                "end": 12
             }
         ]
     }
