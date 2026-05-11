@@ -16,7 +16,7 @@ from pathlib import Path
 CHROMA_DB_PATH  = "./chroma_db"
 COLLECTION_NAME = "legal_clauses"
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-GEMINI_API_KEY  = "AIzaSyC8TnEnGdG6eFYLKRGMUd15PT7gHbS-rsQ"
+GEMINI_API_KEY  = "Enterthekeyhere:)"
 TOP_K = 3
 
 
