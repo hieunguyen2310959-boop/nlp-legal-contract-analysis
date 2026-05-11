@@ -1,0 +1,8 @@
+# BTL 3.3 — RAG Chatbot dependencies
+chromadb
+sentence-transformers
+streamlit
+
+
+google-generativeai     # Gemini 
+# openai                # OpenAI
