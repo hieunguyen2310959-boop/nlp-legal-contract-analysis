@@ -1,15 +1,14 @@
 [
   {
-    "clause": "Khả năng học tập, nâng cao trình độ - Khối lượng kiến thức tối thiểu, yêu cầu về năng lực mà người học phải đạt được sau khi tốt nghiệp ngành, nghề quản lý, khai thác các công trình thủy lợi, trình độ cao đẳng có thể tiếp tục phát triển ở các trình độ cao hơn;",
+    "clause": "Khả năng học tập, nâng cao trình độ - Khối lượng kiến thức tối thiểu, yêu cầu về năng lực mà người học phải đạt được sau khi tốt nghiệp ngành, nghề quản lý, khai thác các công trình thủy lợi, trình độ cao đẳng có thể tiếp tục phát triển ở các trình độ cao hơn",
     "predicate": "đạt được",
     "roles": {
-      "Agent": "người học",
       "Theme": "sau khi tốt nghiệp ngành, nghề quản lý",
       "Condition": "khi tốt nghiệp ngành, nghề quản lý, khai thác các công trình thủy lợi, trình độ cao đẳng có thể tiếp tục phát triển ở cá..."
     }
   },
   {
-    "clause": "Quy định các biện pháp cần thiết để thực hiện bình đẳng giới hoặc để giải quyết vấn đề bất bình đẳng giới, phân biệt đối xử về giới;",
+    "clause": "Quy định các biện pháp cần thiết để thực hiện bình đẳng giới hoặc để giải quyết vấn đề bất bình đẳng giới, phân biệt đối xử về giới",
     "predicate": "thực hiện",
     "roles": {
       "Theme": "bình đẳng giới hoặc để giải quyết vấn"
@@ -58,7 +57,7 @@
     }
   },
   {
-    "clause": "Chi phí lãi và các chi phí tương tự: a) Chi trả lãi tiền gửi: Chi trả lãi tiền gửi của các quỹ tín dụng nhân dân thành viên;",
+    "clause": "Chi phí lãi và các chi phí tương tự: a) Chi trả lãi tiền gửi: Chi trả lãi tiền gửi của các quỹ tín dụng nhân dân thành viên",
     "predicate": "trả",
     "roles": {
       "Theme": "lãi tiền gửi: Chi trả lãi tiền gửi"
@@ -86,7 +85,7 @@
     }
   },
   {
-    "clause": "Vị trí việc làm sau khi tốt nghiệp Sau khi tốt nghiệp người học có năng lực đáp ứng các yêu cầu tại các vị trí việc làm của ngành, nghề bao gồm: - Lắp đặt hệ thống điện tàu thủy;",
+    "clause": "Vị trí việc làm sau khi tốt nghiệp Sau khi tốt nghiệp người học có năng lực đáp ứng các yêu cầu tại các vị trí việc làm của ngành, nghề bao gồm: - Lắp đặt hệ thống điện tàu thủy",
     "predicate": "làm",
     "roles": {
       "Theme": "sau khi tốt nghiệp Sau khi tốt nghiệp",
@@ -94,18 +93,18 @@
     }
   },
   {
-    "clause": "Hương ước, quy ước bị tạm ngừng thực hiện một phần hoặc toàn bộ khi thuộc một trong các trường hợp sau đây: a) Có nội dung quy định tại điểm a Khoản 1 Điều 10 của Quyết định này và nếu",
+    "clause": "Hương ước, quy ước bị tạm ngừng thực hiện một phần hoặc toàn bộ khi thuộc một trong các trường hợp sau đây: a) Có nội dung quy định tại điểm a Khoản 1 Điều 10 của Quyết định này và nếu áp dụng sẽ gây ra thiệt hại hoặc có nguy cơ gây hậu quả nghiêm trọng",
     "predicate": "thực hiện",
     "roles": {
       "Theme": "một phần hoặc toàn bộ khi thuộc một",
-      "Condition": "khi thuộc một trong các trường hợp sau đây: a) Có nội dung quy định tại điểm a Khoản 1 Điều 10 của Quyết định này và nếu"
+      "Condition": "khi thuộc một trong các trường hợp sau đây: a) Có nội dung quy định tại điểm a Khoản 1 Điều 10 của Quyết định này và nếu..."
     }
   },
   {
-    "clause": "Khi có căn cứ quy định tại điểm a hoặc điểm b Khoản 1 Điều này, trong thời hạn 03 ngày làm việc, Ủy ban nhân dân cấp huyện ra quyết định tạm ngừng thực hiện hương ước, quy ước;",
+    "clause": "Khi có căn cứ quy định tại điểm a hoặc điểm b Khoản 1 Điều này, trong thời hạn 03 ngày làm việc, Ủy ban nhân dân cấp huyện ra quyết định tạm ngừng thực hiện hương ước, quy ước",
     "predicate": "thực hiện",
     "roles": {
-      "Agent": "Ủy ban nhân dân cấp huyện",
+      "Agent": "Khi",
       "Theme": "hương ước, quy ước",
       "Time": "trong thời hạn 03 ngày",
       "Condition": "Khi có căn cứ quy định tại điểm a hoặc điểm b Khoản 1 Điều này, trong thời hạn 03 ngày làm việc, Ủy ban nhân dân cấp huy..."
@@ -136,10 +135,9 @@
     }
   },
   {
-    "clause": "Hương ước, quy ước được sửa đổi, bổ sung, thay thế khi thuộc một trong các trường hợp sau đây: a) Có nội dung trái pháp luật, trái đạo đức xã hội hoặc trái phong tục, tập quán về hôn nhân và gia đình được áp dụng tại địa phương đã được Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương phê duyệt hoặc trái phong tục, tập quán tốt đẹp khác theo quy định của pháp luật;",
+    "clause": "Hương ước, quy ước được sửa đổi, bổ sung, thay thế khi thuộc một trong các trường hợp sau đây: a) Có nội dung trái pháp luật, trái đạo đức xã hội hoặc trái phong tục, tập quán về hôn nhân và gia đình được áp dụng tại địa phương đã được Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương phê duyệt hoặc trái phong tục, tập quán tốt đẹp khác theo quy định của pháp luật",
     "predicate": "phê duyệt",
     "roles": {
-      "Agent": "Hội đồng nhân dân tỉnh",
       "Theme": "hoặc trái phong tục, tập quán tốt đẹp khác",
       "Condition": "khi thuộc một trong các trường hợp sau đây: a) Có nội dung trái pháp luật, trái đạo đức xã hội hoặc trái phong tục, tập ..."
     }
@@ -219,10 +217,9 @@
     }
   },
   {
-    "clause": "Tiêu chí để được công nhận là cơ sở công nghiệp quốc phòng a) Được cơ quan nhà nước có thẩm quyền quyết định thành lập theo quy định của pháp luật;",
+    "clause": "Tiêu chí để được công nhận là cơ sở công nghiệp quốc phòng a) Được cơ quan nhà nước có thẩm quyền quyết định thành lập theo quy định của pháp luật",
     "predicate": "nhận",
     "roles": {
-      "Agent": "cơ quan nhà nước",
       "Theme": "là cơ sở công nghiệp quốc phòng a)"
     }
   },
@@ -236,18 +233,16 @@
     }
   },
   {
-    "clause": "Đơn vị được lựa chọn thực hiện huấn luyện, bồi dưỡng nghiệp vụ kiểm định kỹ thuật an toàn lao động phải đảm bảo yêu cầu sau: a) Là tổ chức huấn luyện an toàn, vệ sinh lao động được cấp Giấy chứng nhận đủ điều kiện hoạt động còn hiệu lực;",
+    "clause": "Đơn vị được lựa chọn thực hiện huấn luyện, bồi dưỡng nghiệp vụ kiểm định kỹ thuật an toàn lao động phải đảm bảo yêu cầu sau: a) Là tổ chức huấn luyện an toàn, vệ sinh lao động được cấp Giấy chứng nhận đủ điều kiện hoạt động còn hiệu lực",
     "predicate": "đảm bảo yêu cầu",
     "roles": {
-      "Agent": "tổ chức",
       "Theme": "sau: a) Là tổ chức huấn luyện an"
     }
   },
   {
-    "clause": "Người lao động quy định tại khoản 4 Điều 2 của Luật này, hằng tháng đóng bằng 22% mức thu nhập tháng do người lao động lựa chọn để đóng vào quỹ hưu trí và tử tuất;",
+    "clause": "Người lao động quy định tại khoản 4 Điều 2 của Luật này, hằng tháng đóng bằng 22% mức thu nhập tháng do người lao động lựa chọn để đóng vào quỹ hưu trí và tử tuất",
     "predicate": "đóng",
     "roles": {
-      "Agent": "Người lao động",
       "Theme": "bằng 22% mức thu nhập tháng do người"
     }
   },
@@ -267,10 +262,9 @@
     }
   },
   {
-    "clause": "Người lao động được chọn một trong các phương thức đóng sau đây: a) Hằng tháng;",
+    "clause": "Người lao động được chọn một trong các phương thức đóng sau đây: a) Hằng tháng",
     "predicate": "chọn một",
     "roles": {
-      "Agent": "Người lao động",
       "Theme": "trong các phương thức đóng sau đây: a)"
     }
   },
@@ -347,13 +341,12 @@
     }
   },
   {
-    "clause": "Trường hợp cung cấp trực tiếp cho người đại diện của cơ quan nhà nước, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải yêu cầu người đại diện xuất trình chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu để đối chiếu khớp đúng với văn bản yêu cầu cung cấp thông tin khách hàng trước khi giao nhận thông tin khách hàng;",
+    "clause": "Trường hợp cung cấp trực tiếp cho người đại diện của cơ quan nhà nước, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải yêu cầu người đại diện xuất trình chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu để đối chiếu khớp đúng với văn bản yêu cầu cung cấp thông tin khách hàng trước khi giao nhận thông tin khách hàng",
     "predicate": "giao",
     "roles": {
-      "Agent": "cơ quan nhà nước",
       "Theme": "nhận thông tin khách hàng",
       "Recipient": "người đại diện của cơ quan nhà nước",
-      "Condition": "khi giao nhận thông tin khách hàng;"
+      "Condition": "khi giao nhận thông tin khách hàng"
     }
   },
   {
@@ -366,18 +359,9 @@
     }
   },
   {
-    "clause": "Viên chức đang làm công tác giáo vụ nhưng",
-    "predicate": "làm",
-    "roles": {
-      "Agent": "Viên chức",
-      "Theme": "công tác giáo vụ nhưng"
-    }
-  },
-  {
-    "clause": "chưa được bổ nhiệm theo quy định của Thông tư số 07/2019/TT-BGDĐT ngày 02 tháng 5 năm 2019 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định mã số, tiêu chuẩn chức danh nghề nghiệp và xếp lương nhân viên giáo vụ trong trường phổ thông dân tộc nội trú;",
+    "clause": "Viên chức đang làm công tác giáo vụ nhưng chưa được bổ nhiệm theo quy định của Thông tư số 07/2019/TT-BGDĐT ngày 02 tháng 5 năm 2019 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định mã số, tiêu chuẩn chức danh nghề nghiệp và xếp lương nhân viên giáo vụ trong trường phổ thông dân tộc nội trú",
     "predicate": "bổ nhiệm",
     "roles": {
-      "Agent": "Bộ trưởng",
       "Theme": "theo quy định của Thông tư số 07/2019/TT-BGDĐT",
       "Time": "ngày 02 tháng 5 năm 2019"
     }
@@ -400,10 +384,9 @@
     }
   },
   {
-    "clause": "Điều tra viên có trách nhiệm sau đây: a) Áp dụng các biện pháp theo quy định của Bộ luật tố tụng hình sự và pháp luật khác có liên quan để Điều tra, xác định sự thật vụ án một cách khách quan, toàn diện, đầy đủ;",
+    "clause": "Điều tra viên có trách nhiệm sau đây: a) Áp dụng các biện pháp theo quy định của Bộ luật tố tụng hình sự và pháp luật khác có liên quan để Điều tra, xác định sự thật vụ án một cách khách quan, toàn diện, đầy đủ",
     "predicate": "có trách nhiệm",
     "roles": {
-      "Agent": "Điều tra viên",
       "Theme": "sau đây: a) Áp dụng các biện pháp"
     }
   },
@@ -425,13 +408,12 @@
     }
   },
   {
-    "clause": "Đối với những thí sinh không xác nhận nhập học trong thời hạn quy định: a) Nếu không có lý do chính đáng thì coi như thí sinh từ chối nhập học và cơ sở đào tạo có quyền không tiếp nhận;",
+    "clause": "Đối với những thí sinh không xác nhận nhập học trong thời hạn quy định: a) Nếu không có lý do chính đáng thì coi như thí sinh từ chối nhập học và cơ sở đào tạo có quyền không tiếp nhận",
     "predicate": "nhận",
     "roles": {
-      "Agent": "thí sinh",
       "Theme": "nhập học",
       "Recipient": "những thí sinh không xác nhận nhập học",
-      "Condition": "Nếu không có lý do chính đáng thì coi như thí sinh từ chối nhập học và cơ sở đào tạo có quyền không tiếp nhận;"
+      "Condition": "Nếu không có lý do chính đáng thì coi như thí sinh từ chối nhập học và cơ sở đào tạo có quyền không tiếp nhận"
     }
   },
   {
@@ -455,10 +437,9 @@
     }
   },
   {
-    "clause": "Người tham gia bảo hiểm y tế được quỹ bảo hiểm y tế chi trả các chi phí sau đây: a) Khám bệnh, chữa bệnh, phục hồi chức năng, khám thai định kỳ, sinh con;",
+    "clause": "Người tham gia bảo hiểm y tế được quỹ bảo hiểm y tế chi trả các chi phí sau đây: a) Khám bệnh, chữa bệnh, phục hồi chức năng, khám thai định kỳ, sinh con",
     "predicate": "trả",
     "roles": {
-      "Agent": "Người tham gia bảo hiểm y tế",
       "Theme": "các chi phí sau đây: a) Khám bệnh"
     }
   },
@@ -506,14 +487,14 @@
     }
   },
   {
-    "clause": "Trong cùng một nghề, người có trình độ kỹ năng nghề bậc cao hơn phải nắm chắc nội dung và thực hiện thành thạo công việc của bậc thấp hơn;",
+    "clause": "Trong cùng một nghề, người có trình độ kỹ năng nghề bậc cao hơn phải nắm chắc nội dung và thực hiện thành thạo công việc của bậc thấp hơn",
     "predicate": "thực hiện",
     "roles": {
       "Theme": "thành thạo công việc của bậc thấp hơn"
     }
   },
   {
-    "clause": "Giá đất cụ thể được sử dụng để làm căn cứ đối với các trường hợp quy định tại Khoản 4 Điều 114, Khoản 2 Điều 172 và Khoản 3 Điều 189 của Luật Đất đai;",
+    "clause": "Giá đất cụ thể được sử dụng để làm căn cứ đối với các trường hợp quy định tại Khoản 4 Điều 114, Khoản 2 Điều 172 và Khoản 3 Điều 189 của Luật Đất đai",
     "predicate": "làm",
     "roles": {
       "Theme": "căn cứ đối",
@@ -531,10 +512,9 @@
     }
   },
   {
-    "clause": "Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 300.000.000 đồng đến 1.000.000.000 đồng hoặc phạt tù từ 02 năm đến 05 năm: a) Có tổ chức;",
+    "clause": "Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tiền từ 300.000.000 đồng đến 1.000.000.000 đồng hoặc phạt tù từ 02 năm đến 05 năm: a) Có tổ chức",
     "predicate": "phạt tiền",
     "roles": {
-      "Agent": "tổ chức",
       "Theme": "từ 300.000.000 đồng",
       "Recipient": "1.000",
       "Time": "từ 02 năm đến 05 năm"
@@ -567,38 +547,31 @@
     }
   },
   {
-    "clause": "Trong trường hợp cha, mẹ không thừa nhận con thì phải có chứng cứ và phải được Tòa án xác định.”",
+    "clause": "Trong trường hợp cha, mẹ không thừa nhận con thì phải có chứng cứ và phải được Tòa án xác định.",
     "predicate": "nhận",
     "roles": {
       "Theme": "con thì phải có chứng cứ và phải",
-      "Condition": "Trong trường hợp cha, mẹ không thừa nhận con thì phải có chứng cứ và phải được Tòa án xác định.”"
+      "Condition": "Trong trường hợp cha, mẹ không thừa nhận con thì phải có chứng cứ và phải được Tòa án xác định."
     }
   },
   {
-    "clause": "Không ra quyết định xử phạt vi phạm hành chính trong những trường hợp sau đây: a) Trường hợp quy định tại Điều 11 của Luật này;",
+    "clause": "Không ra quyết định xử phạt vi phạm hành chính trong những trường hợp sau đây: a) Trường hợp quy định tại Điều 11 của Luật này",
     "predicate": "xử phạt",
     "roles": {
       "Theme": "vi phạm hành chính"
     }
   },
   {
-    "clause": "Đối với trường hợp quy định tại các điểm a, b, c và d khoản 1 Điều này, người có thẩm quyền không ra quyết định xử phạt vi phạm hành chính nhưng",
+    "clause": "Đối với trường hợp quy định tại các điểm a, b, c và d khoản 1 Điều này, người có thẩm quyền không ra quyết định xử phạt vi phạm hành chính nhưng vẫn phải ra quyết định tịch thu tang vật, phương tiện vi phạm hành chính nếu tang vật, phương tiện vi phạm hành chính thuộc loại cấm tàng trữ, cấm lưu hành hoặc tang vật, phương tiện mà pháp luật có quy định hình thức xử phạt tịch thu và áp dụng biện pháp khắc phục hậu quả được quy định đối với hành vi vi phạm hành chính đó.",
     "predicate": "xử phạt",
     "roles": {
-      "Theme": "vi phạm hành chính nhưng",
-      "Recipient": "trường hợp quy định"
+      "Theme": "vi phạm hành chính nhưng vẫn phải ra",
+      "Recipient": "trường hợp quy định",
+      "Condition": "nếu tang vật, phương tiện vi phạm hành chính thuộc loại cấm tàng trữ, cấm lưu hành hoặc tang vật, phương tiện mà pháp lu..."
     }
   },
   {
-    "clause": "tang vật, phương tiện vi phạm hành chính thuộc loại cấm tàng trữ, cấm lưu hành hoặc tang vật, phương tiện mà pháp luật có quy định hình thức xử phạt tịch thu và áp dụng biện pháp khắc phục hậu quả được quy định đối với hành vi vi phạm hành chính đó.",
-    "predicate": "xử phạt",
-    "roles": {
-      "Theme": "tịch thu và áp dụng biện pháp khắc",
-      "Recipient": "hành vi vi phạm hành chính đó"
-    }
-  },
-  {
-    "clause": "Quyết định phải ghi rõ lý do không ra quyết định xử phạt vi phạm hành chính;",
+    "clause": "Quyết định phải ghi rõ lý do không ra quyết định xử phạt vi phạm hành chính",
     "predicate": "xử phạt",
     "roles": {
       "Theme": "vi phạm hành chính"
@@ -624,12 +597,12 @@
     }
   },
   {
-    "clause": "tập trung đào tạo, huấn luyện, bồi dưỡng chính trị, pháp Luật, nghiệp vụ hoặc trên đường đi làm nhiệm vụ, trên đường đi, về nơi tập trung huấn luyện, bồi dưỡng chính trị, pháp Luật, nghiệp vụ theo quyết định triệu tập của cấp có thẩm quyền thì được hưởng các chế độ như sau: a) Được thanh toán chi phí y tế trong quá trình sơ cứu, cấp cứu đến khi Điều trị ổn định thương tật, xuất viện;",
+    "clause": "tập trung đào tạo, huấn luyện, bồi dưỡng chính trị, pháp Luật, nghiệp vụ hoặc trên đường đi làm nhiệm vụ, trên đường đi, về nơi tập trung huấn luyện, bồi dưỡng chính trị, pháp Luật, nghiệp vụ theo quyết định triệu tập của cấp có thẩm quyền thì được hưởng các chế độ như sau: a) Được thanh toán chi phí y tế trong quá trình sơ cứu, cấp cứu đến khi Điều trị ổn định thương tật, xuất viện",
     "predicate": "thanh toán",
     "roles": {
       "Theme": "chi phí y tế",
       "Recipient": "khi Điều trị ổn định thương tật",
-      "Condition": "khi Điều trị ổn định thương tật, xuất viện;"
+      "Condition": "khi Điều trị ổn định thương tật, xuất viện"
     }
   },
   {
@@ -641,13 +614,6 @@
     }
   },
   {
-    "clause": "người bị chết có tham gia bảo hiểm xã hội thì thực hiện theo quy định của pháp Luật về bảo hiểm xã hội;",
-    "predicate": "thực hiện",
-    "roles": {
-      "Theme": "theo quy định của pháp Luật về bảo"
-    }
-  },
-  {
     "clause": "trường hợp người bị chế chưa tham gia bảo hiểm xã hội thì người chịu trách nhiệm mai táng được nhận tiền mai táng bằng 08 (tám) tháng lương tối thiểu và gia đình của người đó được trợ cấp một lần bằng 05 (năm) tháng lương tối thiểu.",
     "predicate": "nhận",
     "roles": {
@@ -656,18 +622,10 @@
     }
   },
   {
-    "clause": "Thẩm quyền tiêu hủy tài liệu, vật chứa bí mật nhà nước được quy định như sau: a) Người có thẩm quyền quy định tại khoản 1, khoản 2 Điều 4 Quyết định này có thẩm quyền quyết định tiêu hủy tài liệu, vật chứa bí mật nhà nước;",
+    "clause": "Thẩm quyền tiêu hủy tài liệu, vật chứa bí mật nhà nước được quy định như sau: a) Người có thẩm quyền quy định tại khoản 1, khoản 2 Điều 4 Quyết định này có thẩm quyền quyết định tiêu hủy tài liệu, vật chứa bí mật nhà nước",
     "predicate": "hủy",
     "roles": {
       "Theme": "tài liệu, vật chứa bí mật nhà nước"
-    }
-  },
-  {
-    "clause": "không tiêu hủy ngay sẽ gây nguy hại cho lợi ích quốc gia, dân tộc và báo cáo ngay bằng văn bản về việc tiêu hủy với người có thẩm quyền quy định tại điểm a khoản này.",
-    "predicate": "hủy",
-    "roles": {
-      "Theme": "ngay sẽ gây nguy hại",
-      "Recipient": "lợi ích quốc gia"
     }
   },
   {
@@ -680,10 +638,9 @@
     }
   },
   {
-    "clause": "Hội đồng tiêu hủy tài liệu thuộc bí mật nhà nước gồm: a) Đại diện lãnh đạo cơ quan, đơn vị trực tiếp lưu giữ tài liệu, vật chứa bí mật nhà nước làm Chủ tịch Hội đồng;",
+    "clause": "Hội đồng tiêu hủy tài liệu thuộc bí mật nhà nước gồm: a) Đại diện lãnh đạo cơ quan, đơn vị trực tiếp lưu giữ tài liệu, vật chứa bí mật nhà nước làm Chủ tịch Hội đồng",
     "predicate": "hủy",
     "roles": {
-      "Agent": "Hội đồng tiêu hủy",
       "Theme": "tài liệu thuộc bí mật nhà nước gồm:"
     }
   },
@@ -713,19 +670,17 @@
     }
   },
   {
-    "clause": "Báo cáo kết quả tổ chức các hoạt động Tết Trung thu cho trẻ em (phụ lục kèm theo) gửi về Bộ Lao động - Thương binh và Xã hội (qua Cục Trẻ em, số 35 Trần Phú, quận Ba Đình, thành phố Hà Nội;",
+    "clause": "Báo cáo kết quả tổ chức các hoạt động Tết Trung thu cho trẻ em (phụ lục kèm theo) gửi về Bộ Lao động - Thương binh và Xã hội (qua Cục Trẻ em, số 35 Trần Phú, quận Ba Đình, thành phố Hà Nội",
     "predicate": "báo cáo",
     "roles": {
-      "Agent": "Bộ Lao động - Thương binh và Xã hội",
       "Theme": "kết quả tổ chức các hoạt động Tết Trung thu",
       "Recipient": "trẻ em (phụ lục kèm"
     }
   },
   {
-    "clause": "Thực hiện nhiệm vụ tổ chức các hoạt động dạy học, giáo dục theo kế hoạch giáo dục của nhà trường và kế hoạch giáo dục của tổ chuyên môn;",
+    "clause": "Thực hiện nhiệm vụ tổ chức các hoạt động dạy học, giáo dục theo kế hoạch giáo dục của nhà trường và kế hoạch giáo dục của tổ chuyên môn",
     "predicate": "thực hiện",
     "roles": {
-      "Agent": "tổ chức",
       "Theme": "nhiệm vụ tổ chức các hoạt động dạy học, giáo dục"
     }
   },
@@ -737,7 +692,7 @@
     }
   },
   {
-    "clause": "Thực hiện nghĩa vụ công dân, các quy định của pháp luật và của ngành Giáo dục, các quyết định của hiệu trưởng;",
+    "clause": "Thực hiện nghĩa vụ công dân, các quy định của pháp luật và của ngành Giáo dục, các quyết định của hiệu trưởng",
     "predicate": "thực hiện",
     "roles": {
       "Theme": "nghĩa vụ công dân, các quy định của"
@@ -758,29 +713,28 @@
     }
   },
   {
-    "clause": "ký duyệt danh sách thí sinh đăng ký dự thi;",
+    "clause": "ký duyệt danh sách thí sinh đăng ký dự thi",
     "predicate": "đăng ký",
     "roles": {
-      "Agent": "thí sinh",
       "Theme": "dự thi"
     }
   },
   {
-    "clause": "tiếp nhận, quản lý đề thi, đáp án, hướng dẫn chấm;",
+    "clause": "tiếp nhận, quản lý đề thi, đáp án, hướng dẫn chấm",
     "predicate": "nhận",
     "roles": {
       "Theme": ", quản lý đề thi, đáp án, hướng"
     }
   },
   {
-    "clause": "quy định việc làm phách bài thi bảo đảm an toàn, bảo mật;",
+    "clause": "quy định việc làm phách bài thi bảo đảm an toàn, bảo mật",
     "predicate": "làm",
     "roles": {
       "Theme": "phách bài thi bảo đảm an toàn, bảo"
     }
   },
   {
-    "clause": "bàn giao đề thi theo đúng quy định;",
+    "clause": "bàn giao đề thi theo đúng quy định",
     "predicate": "bàn giao",
     "roles": {
       "Theme": "đề thi"
@@ -809,31 +763,29 @@
     }
   },
   {
-    "clause": "có) để trình Bộ Giao thông vận tải, Ủy ban nhân dân cấp tỉnh: a) Bộ Giao thông vận tải lấy ý kiến của Bộ Tài chính và cơ quan có liên quan về Đề án khai thác quỹ đất để tạo vốn phát triển tài sản kết cấu hạ tầng giao thông đường bộ thuộc phạm vi quản lý, báo cáo Thủ tướng Chính phủ xem xét, phê duyệt;",
+    "clause": "Cơ quan được giao quản lý tài sản lập Đề án khai thác quỹ đất báo cáo cơ quan quản lý cấp trên (nếu có) để trình Bộ Giao thông vận tải, Ủy ban nhân dân cấp tỉnh: a) Bộ Giao thông vận tải lấy ý kiến của Bộ Tài chính và cơ quan có liên quan về Đề án khai thác quỹ đất để tạo vốn phát triển tài sản kết cấu hạ tầng giao thông đường bộ thuộc phạm vi quản lý, báo cáo Thủ tướng Chính phủ xem xét, phê duyệt",
     "predicate": "giao",
     "roles": {
-      "Agent": "Bộ Giao thông vận tải",
-      "Theme": "thông vận tải, Ủy ban nhân dân cấp"
+      "Theme": "quản lý tài sản lập Đề án khai",
+      "Condition": "nếu có) để trình Bộ Giao thông vận tải, Ủy ban nhân dân cấp tỉnh: a) Bộ Giao thông vận tải lấy ý kiến của Bộ Tài chính v..."
     }
   },
   {
-    "clause": "Ủy ban nhân dân cấp tỉnh (nơi có quỹ đất để tạo vốn) có trách nhiệm: a) Thu hồi diện tích đất vùng phụ cận ngoài diện tích đất phục vụ dự án đầu tư xây dựng công trình kết cấu hạ tầng giao thông đường bộ theo Đề án được cơ quan, người có thẩm quyền phê duyệt;",
+    "clause": "Ủy ban nhân dân cấp tỉnh (nơi có quỹ đất để tạo vốn) có trách nhiệm: a) Thu hồi diện tích đất vùng phụ cận ngoài diện tích đất phục vụ dự án đầu tư xây dựng công trình kết cấu hạ tầng giao thông đường bộ theo Đề án được cơ quan, người có thẩm quyền phê duyệt",
     "predicate": "giao",
     "roles": {
-      "Agent": "Ủy ban nhân dân cấp tỉnh",
       "Theme": "thông đường bộ"
     }
   },
   {
-    "clause": "Cơ quan, tổ chức, cá nhân có trách nhiệm sau đây: a) Tuân thủ quy trình thu thập, cung cấp và cập nhật thông tin, tài liệu vào Cơ sở dữ liệu quốc gia về dân cư;",
+    "clause": "Cơ quan, tổ chức, cá nhân có trách nhiệm sau đây: a) Tuân thủ quy trình thu thập, cung cấp và cập nhật thông tin, tài liệu vào Cơ sở dữ liệu quốc gia về dân cư",
     "predicate": "có trách nhiệm",
     "roles": {
-      "Agent": "cá nhân",
       "Theme": "sau đây: a) Tuân thủ quy trình thu"
     }
   },
   {
-    "clause": "Người được giao nhiệm vụ thu thập, cập nhật thông tin, tài liệu có trách nhiệm sau đây: a) Kiểm tra thông tin, tài liệu về công dân;",
+    "clause": "Người được giao nhiệm vụ thu thập, cập nhật thông tin, tài liệu có trách nhiệm sau đây: a) Kiểm tra thông tin, tài liệu về công dân",
     "predicate": "giao",
     "roles": {
       "Agent": "Người",
@@ -848,10 +800,9 @@
     }
   },
   {
-    "clause": "Thủ trưởng cơ quan quản lý Cơ sở dữ liệu quốc gia về dân cư có trách nhiệm sau đây: a) Tổ chức quản lý việc cập nhật, lưu trữ thông tin, tài liệu vào cơ sở dữ liệu;",
+    "clause": "Thủ trưởng cơ quan quản lý Cơ sở dữ liệu quốc gia về dân cư có trách nhiệm sau đây: a) Tổ chức quản lý việc cập nhật, lưu trữ thông tin, tài liệu vào cơ sở dữ liệu",
     "predicate": "có trách nhiệm",
     "roles": {
-      "Agent": "Tổ chức",
       "Theme": "sau đây: a) Tổ chức quản lý việc"
     }
   },
@@ -899,14 +850,6 @@
     }
   },
   {
-    "clause": "có hoá đơn mua hàng hoá, dịch vụ từng lần có giá trị từ 20 triệu đồng trở lên (giá đã bao gồm thuế GTGT) khi thanh toán phải có chứng từ thanh toán không dùng tiền mặt.",
-    "predicate": "thanh toán",
-    "roles": {
-      "Theme": "phải có chứng từ thanh toán không dùng",
-      "Condition": "khi thanh toán phải có chứng từ thanh toán không dùng tiền mặt."
-    }
-  },
-  {
     "clause": "Chứng từ thanh toán không dùng tiền mặt thực hiện theo quy định của các văn bản pháp luật về thuế giá trị gia tăng.",
     "predicate": "thanh toán",
     "roles": {
@@ -938,10 +881,9 @@
     }
   },
   {
-    "clause": "Chi phí khác tính trong chi phí tiền lương, chi phí nhân công gồm: chi phí bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, kinh phí công đoàn thuộc trách nhiệm đóng của người sử dụng lao động được xác định theo quy định của pháp luật;",
+    "clause": "Chi phí khác tính trong chi phí tiền lương, chi phí nhân công gồm: chi phí bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, kinh phí công đoàn thuộc trách nhiệm đóng của người sử dụng lao động được xác định theo quy định của pháp luật",
     "predicate": "xác định",
     "roles": {
-      "Agent": "người sử dụng lao động",
       "Theme": "theo quy định của pháp luật"
     }
   },
@@ -955,7 +897,7 @@
     }
   },
   {
-    "clause": "Hồ sơ bao gồm: a) Tờ trình đề nghị phê duyệt;",
+    "clause": "Hồ sơ bao gồm: a) Tờ trình đề nghị phê duyệt",
     "predicate": "phê duyệt",
     "roles": {}
   },
@@ -970,26 +912,26 @@
     }
   },
   {
-    "clause": "Cụ thể bao gồm những cá nhân thực hiện các hoạt động th­ương mại sau đây: a) Buôn bán rong (buôn bán dạo) là các hoạt động mua, bán không có địa điểm cố định (mua rong, bán rong hoặc vừa mua rong vừa bán rong), bao gồm cả việc nhận sách báo, tạp chí, văn hóa phẩm của các th­ương nhân đ­ược phép kinh doanh các sản phẩm này theo quy định của pháp luật để bán rong;",
+    "clause": "Cụ thể bao gồm những cá nhân thực hiện các hoạt động th­ương mại sau đây: a) Buôn bán rong (buôn bán dạo) là các hoạt động mua, bán không có địa điểm cố định (mua rong, bán rong hoặc vừa mua rong vừa bán rong), bao gồm cả việc nhận sách báo, tạp chí, văn hóa phẩm của các th­ương nhân đ­ược phép kinh doanh các sản phẩm này theo quy định của pháp luật để bán rong",
     "predicate": "nhận",
     "roles": {
-      "Agent": "cá nhân",
       "Theme": "sách báo, tạp chí, văn hóa phẩm của"
     }
   },
   {
-    "clause": "Trường hợp nội dung thỉnh thị có liên quan hoặc phải xin ý kiến của các đơn vị trong cùng cấp Viện kiểm sát thì đơn vị được thỉnh thị có trách nhiệm trao đổi, thống nhất với đơn vị có liên quan trước khi ban hành văn bản trả lời;",
+    "clause": "Trường hợp nội dung thỉnh thị có liên quan hoặc phải xin ý kiến của các đơn vị trong cùng cấp Viện kiểm sát thì đơn vị được thỉnh thị có trách nhiệm trao đổi, thống nhất với đơn vị có liên quan trước khi ban hành văn bản trả lời",
     "predicate": "trả",
     "roles": {
       "Recipient": "đơn vị có liên quan",
-      "Condition": "khi ban hành văn bản trả lời;"
+      "Condition": "khi ban hành văn bản trả lời"
     }
   },
   {
-    "clause": "không thống nhất được thì báo cáo Phó Viện trưởng phụ trách quyết định;",
+    "clause": "nếu không thống nhất được thì báo cáo Phó Viện trưởng phụ trách quyết định",
     "predicate": "báo cáo",
     "roles": {
-      "Theme": "Phó Viện trưởng phụ trách quyết định"
+      "Theme": "Phó Viện trưởng phụ trách quyết định",
+      "Condition": "nếu không thống nhất được thì báo cáo Phó Viện trưởng phụ trách quyết định"
     }
   },
   {
@@ -1000,26 +942,24 @@
     }
   },
   {
-    "clause": "Trường hợp nội dung thỉnh thị có liên quan hoặc cần xin ý kiến của các đơn vị ngoài ngành Kiểm sát nhân dân hoặc phải báo cáo cơ quan, người có thẩm quyền thì đơn vị được thỉnh thị có trách nhiệm trao đổi với đơn vị có liên quan, xin ý kiến của cơ quan, người có thẩm quyền trước khi ban hành văn bản trả lời;",
+    "clause": "Trường hợp nội dung thỉnh thị có liên quan hoặc cần xin ý kiến của các đơn vị ngoài ngành Kiểm sát nhân dân hoặc phải báo cáo cơ quan, người có thẩm quyền thì đơn vị được thỉnh thị có trách nhiệm trao đổi với đơn vị có liên quan, xin ý kiến của cơ quan, người có thẩm quyền trước khi ban hành văn bản trả lời",
     "predicate": "trả",
     "roles": {
-      "Agent": "người có thẩm quyền",
       "Recipient": "đơn vị có liên quan",
-      "Condition": "khi ban hành văn bản trả lời;"
+      "Condition": "khi ban hành văn bản trả lời"
     }
   },
   {
-    "clause": "không thống nhất được thì báo cáo Viện trưởng Viện kiểm sát cấp mình để giải quyết.",
+    "clause": "nếu không thống nhất được thì báo cáo Viện trưởng Viện kiểm sát cấp mình để giải quyết.",
     "predicate": "giải quyết",
     "roles": {
-      "Agent": "Viện trưởng Viện kiểm sát cấp mình"
+      "Condition": "nếu không thống nhất được thì báo cáo Viện trưởng Viện kiểm sát cấp mình để giải quyết."
     }
   },
   {
-    "clause": "Trường hợp vụ án hình sự bị hủy để điều tra lại, xét xử lại mà báo cáo thỉnh thị liên quan đến công tác thực hành quyền công tố, kiểm sát xét xử thì Vụ Thực hành quyền công tố và kiểm sát điều tra khi trả lời thỉnh thị Viện kiểm sát nhân dân cấp tỉnh cần phải trao đổi thống nhất với Viện kiểm sát nhân dân cấp cao trong phạm vi thẩm quyền theo lãnh thổ;",
+    "clause": "Trường hợp vụ án hình sự bị hủy để điều tra lại, xét xử lại mà báo cáo thỉnh thị liên quan đến công tác thực hành quyền công tố, kiểm sát xét xử thì Vụ Thực hành quyền công tố và kiểm sát điều tra khi trả lời thỉnh thị Viện kiểm sát nhân dân cấp tỉnh cần phải trao đổi thống nhất với Viện kiểm sát nhân dân cấp cao trong phạm vi thẩm quyền theo lãnh thổ",
     "predicate": "trao đổi thống nhất",
     "roles": {
-      "Agent": "Viện kiểm sát nhân dân cấp tỉnh",
       "Theme": "với Viện kiểm sát nhân dân cấp cao",
       "Recipient": "công tác thực hành quyền công tố",
       "Condition": "khi trả lời thỉnh thị Viện kiểm sát nhân dân cấp tỉnh cần phải trao đổi thống nhất với Viện kiểm sát nhân dân cấp cao tr..."
@@ -1083,7 +1023,7 @@
     }
   },
   {
-    "clause": "Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng hoặc tịch thu một phần hoặc toàn bộ tài sản.”",
+    "clause": "Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng hoặc tịch thu một phần hoặc toàn bộ tài sản.",
     "predicate": "phạt tiền",
     "roles": {
       "Theme": "từ 10.000.000 đồng",
@@ -1115,15 +1055,7 @@
     }
   },
   {
-    "clause": "Người lao động bị kết án phạt tù nhưng",
-    "predicate": "phạt",
-    "roles": {
-      "Agent": "Người lao động",
-      "Theme": "tù nhưng"
-    }
-  },
-  {
-    "clause": "không được hưởng án treo hoặc không thuộc trường hợp được trả tự do theo quy định tại khoản 5 Điều 328 của Bộ luật Tố tụng hình sự, tử hình hoặc bị cấm làm công việc ghi trong hợp đồng lao động theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật.",
+    "clause": "Người lao động bị kết án phạt tù nhưng không được hưởng án treo hoặc không thuộc trường hợp được trả tự do theo quy định tại khoản 5 Điều 328 của Bộ luật Tố tụng hình sự, tử hình hoặc bị cấm làm công việc ghi trong hợp đồng lao động theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật.",
     "predicate": "trả tự do",
     "roles": {
       "Theme": "theo quy định"
@@ -1208,15 +1140,22 @@
     }
   },
   {
-    "clause": "Người chịu trách nhiệm chuyên môn về dược của tủ thuốc trạm y tế xã phải có một trong các văn bằng chuyên môn quy định tại Điểm a, e, g hoặc k Khoản 1 Điều 13 của Luật này và có 01 năm thực hành chuyên môn tại cơ sở dược phù hợp hoặc cơ sở khám bệnh, chữa bệnh;",
+    "clause": "Người chịu trách nhiệm chuyên môn về dược của tủ thuốc trạm y tế xã phải có một trong các văn bằng chuyên môn quy định tại Điểm a, e, g hoặc k Khoản 1 Điều 13 của Luật này và có 01 năm thực hành chuyên môn tại cơ sở dược phù hợp hoặc cơ sở khám bệnh, chữa bệnh",
     "predicate": "có một",
     "roles": {
-      "Agent": "Người chịu trách nhiệm",
       "Theme": "trong các văn bằng chuyên môn quy định"
     }
   },
   {
-    "clause": "Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với một trong các hành vi sau đây: .... b) Người trực tiếp tham gia bán lẻ thuốc không có bằng cấp chuyên môn theo quy định của pháp luật;",
+    "clause": "Người chịu trách nhiệm chuyên môn về dược của cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền phải có một trong các văn bằng chuyên môn quy định tại Điểm a, c, e, g, i hoặc l Khoản 1 Điều 13 của Luật này và có 01 năm thực hành chuyên môn tại cơ sở dược hoặc cơ sở khám bệnh, chữa bệnh bằng y học cổ truyền, trừ trường hợp quy định tại Điểm c Khoản 2 Điều 13 của Luật này.",
+    "predicate": "có một",
+    "roles": {
+      "Theme": "trong các văn bằng chuyên môn quy định",
+      "Condition": "trừ trường hợp quy định tại Điểm c Khoản 2 Điều 13 của Luật này."
+    }
+  },
+  {
+    "clause": "Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với một trong các hành vi sau đây: .... b) Người trực tiếp tham gia bán lẻ thuốc không có bằng cấp chuyên môn theo quy định của pháp luật",
     "predicate": "phạt",
     "roles": {
       "Theme": "tiền từ 1.000.000 đồng",
@@ -1245,7 +1184,7 @@
     }
   },
   {
-    "clause": "8.2.2 Ghi nhãn bao gói không dùng để bán lẻ Tên sản phẩm, dấu hiệu nhận biết lô hàng, tên và địa chỉ của nhà sản xuất hoặc nhà đóng gói, nhà phân phối hoặc nhà nhập khẩu và hướng dẫn bảo quản phải được ghi trên nhãn;",
+    "clause": "8.2.2 Ghi nhãn bao gói không dùng để bán lẻ Tên sản phẩm, dấu hiệu nhận biết lô hàng, tên và địa chỉ của nhà sản xuất hoặc nhà đóng gói, nhà phân phối hoặc nhà nhập khẩu và hướng dẫn bảo quản phải được ghi trên nhãn",
     "predicate": "nhận",
     "roles": {
       "Theme": "biết lô hàng, tên và địa chỉ của"
@@ -1331,15 +1270,7 @@
     }
   },
   {
-    "clause": "Trách nhiệm và quyền hạn của các thành viên Hội đồng coi thi: .. g) Trong thời gian coi thi, tính từ thời điểm mở túi đề thi cho tới thời điểm kết thúc từng buổi thi, mọi thành viên của Hội đồng coi thi có trách nhiệm bảo mật đề thi;",
-    "predicate": "có trách nhiệm",
-    "roles": {
-      "Theme": "bảo mật đề thi",
-      "Recipient": "tới thời điểm kết thúc từng buổi thi"
-    }
-  },
-  {
-    "clause": "Trong trường hợp cần thiết, chỉ lãnh đạo Hội đồng coi thi được liên hệ bằng điện thoại cố định, có loa ngoài dưới sự giám sát của công an, bảo vệ (phải lập biên bản về địa chỉ và nội dung liên hệ);",
+    "clause": "Trong trường hợp cần thiết, chỉ lãnh đạo Hội đồng coi thi được liên hệ bằng điện thoại cố định, có loa ngoài dưới sự giám sát của công an, bảo vệ (phải lập biên bản về địa chỉ và nội dung liên hệ)",
     "predicate": "lập biên bản",
     "roles": {
       "Theme": "về địa chỉ và nội dung liên hệ)",
@@ -1380,14 +1311,14 @@
     }
   },
   {
-    "clause": "Trường hợp người khởi kiện chỉ đòi lại giấy chứng nhận quyền sở hữu tài sản do người khác đang chiếm giữ (Giấy chứng nhận quyền sử dụng đất;",
+    "clause": "Trường hợp người khởi kiện chỉ đòi lại giấy chứng nhận quyền sở hữu tài sản do người khác đang chiếm giữ (Giấy chứng nhận quyền sử dụng đất",
     "predicate": "nhận",
     "roles": {
       "Theme": "quyền sở hữu tài sản do người khác"
     }
   },
   {
-    "clause": "Giấy chứng nhận quyền sở hữu nhà ở, Giấy đăng ký xe mô tô, xe máy;",
+    "clause": "Giấy chứng nhận quyền sở hữu nhà ở, Giấy đăng ký xe mô tô, xe máy",
     "predicate": "nhận",
     "roles": {
       "Theme": "quyền sở hữu nhà ở, Giấy đăng ký"
@@ -1409,7 +1340,7 @@
     }
   },
   {
-    "clause": "trả lại đơn khởi kiện và tài liệu, chứng cứ kèm theo cho đương sự;",
+    "clause": "trả lại đơn khởi kiện và tài liệu, chứng cứ kèm theo cho đương sự",
     "predicate": "trả",
     "roles": {
       "Theme": "lại đơn khởi kiện và tài liệu, chứng cứ kèm",
@@ -1436,10 +1367,17 @@
     }
   },
   {
-    "clause": "Bên có lỗi trong việc làm mất giấy tờ phải chịu toàn bộ chi phí, lệ phí trong việc cấp lại giấy tờ mới.Chủ sở hữu, chủ đòi lại tài sản thể có quyền khác đối với tài sản có quyền yêu cầu Tòa án, cơ quan nhà nước có thẩm quyền khác buộc người có hành vi xâm phạm quyền phải trả lại tài sản, chấm dứt hành vi cản trở trái pháp luật việc thực hiện quyền sở hữu, quyền khác đối với tài sản và yêu cầu bồi thường thiệt hại.",
+    "clause": "Bên có lỗi trong việc làm mất giấy tờ phải chịu toàn bộ chi phí, lệ phí trong việc cấp lại giấy tờ mới.",
+    "predicate": "làm",
+    "roles": {
+      "Agent": "Bên",
+      "Theme": "mất giấy tờ phải chịu toàn bộ chi phí, lệ phí"
+    }
+  },
+  {
+    "clause": "Chủ sở hữu, chủ đòi lại tài sản thể có quyền khác đối với tài sản có quyền yêu cầu Tòa án, cơ quan nhà nước có thẩm quyền khác buộc người có hành vi xâm phạm quyền phải trả lại tài sản, chấm dứt hành vi cản trở trái pháp luật việc thực hiện quyền sở hữu, quyền khác đối với tài sản và yêu cầu bồi thường thiệt hại.",
     "predicate": "trả",
     "roles": {
-      "Agent": "cơ quan nhà nước",
       "Theme": "lại tài sản, chấm dứt hành vi cản",
       "Recipient": "tài sản có quyền yêu cầu Tòa án"
     }
@@ -1490,6 +1428,13 @@
     }
   },
   {
+    "clause": "Người đồng phạm không phải chịu trách nhiệm hình sự về hành vi vượt quá của người thực hành.",
+    "predicate": "chịu trách nhiệm",
+    "roles": {
+      "Theme": "hình sự về hành vi vượt quá của"
+    }
+  },
+  {
     "clause": "sau khi biết tội phạm được thực hiện đã che giấu người phạm tội, dấu vết, tang vật của tội phạm hoặc có hành vi khác cản trở việc phát hiện, điều tra, xử lý người phạm tội, thì phải chịu trách nhiệm hình sự về tội che giấu tội phạm trong những trường hợp mà Bộ luật này quy định.",
     "predicate": "thực hiện",
     "roles": {
@@ -1516,7 +1461,7 @@
     }
   },
   {
-    "clause": "có hệ lực lượng theo ngành dọc, quy mô hoạt động toàn quốc, trực tiếp chủ trì phối hợp hoặc tham gia phối hợp thực hiện nhiệm vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm;",
+    "clause": "có hệ lực lượng theo ngành dọc, quy mô hoạt động toàn quốc, trực tiếp chủ trì phối hợp hoặc tham gia phối hợp thực hiện nhiệm vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm",
     "predicate": "thực hiện",
     "roles": {
       "Theme": "nhiệm vụ bảo vệ an ninh quốc gia"
@@ -1538,10 +1483,9 @@
     }
   },
   {
-    "clause": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng khi vi phạm với mỗi người lao động đối với người sử dụng lao động có một trong các hành vi: a) Không tham khảo ý kiến của người lao động là người khuyết tật khi quyết định những vấn đề liên quan đến quyền và lợi ích của họ;",
+    "clause": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng khi vi phạm với mỗi người lao động đối với người sử dụng lao động có một trong các hành vi: a) Không tham khảo ý kiến của người lao động là người khuyết tật khi quyết định những vấn đề liên quan đến quyền và lợi ích của họ",
     "predicate": "phạt",
     "roles": {
-      "Agent": "người sử dụng lao động",
       "Theme": "tiền từ 5.000.000 đồng",
       "Recipient": "10.000",
       "Condition": "khi vi phạm với mỗi người lao động đối với người sử dụng lao động có một trong các hành vi: a) Không tham khảo ý kiến củ..."
@@ -1558,7 +1502,7 @@
     }
   },
   {
-    "clause": "Quyết định thành lập, mục tiêu, nhiệm vụ và ngành, nghề kinh doanh của Tổng công ty;",
+    "clause": "Quyết định thành lập, mục tiêu, nhiệm vụ và ngành, nghề kinh doanh của Tổng công ty",
     "predicate": "kinh doanh",
     "roles": {
       "Theme": "của Tổng công ty"
@@ -1586,14 +1530,14 @@
     }
   },
   {
-    "clause": "đánh giá việc thực hiện mục tiêu, nhiệm vụ được giao, kết quả hoạt động, hiệu quả sản xuất kinh doanh;",
+    "clause": "đánh giá việc thực hiện mục tiêu, nhiệm vụ được giao, kết quả hoạt động, hiệu quả sản xuất kinh doanh",
     "predicate": "giao",
     "roles": {
       "Theme": ", kết quả hoạt động, hiệu quả sản"
     }
   },
   {
-    "clause": "Thời hạn nộp hồ sơ khai thuế đối với loại thuế khai theo tháng, theo quý được quy định như sau: a) Chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế đối với trường hợp khai và nộp theo tháng;",
+    "clause": "Thời hạn nộp hồ sơ khai thuế đối với loại thuế khai theo tháng, theo quý được quy định như sau: a) Chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế đối với trường hợp khai và nộp theo tháng",
     "predicate": "nộp",
     "roles": {
       "Theme": "hồ sơ khai thuế đối",
@@ -1630,7 +1574,7 @@
     }
   },
   {
-    "clause": "Khi phát hiện sổ kế toán có sai sót thì không được tẩy xóa làm mất dấu vết thông tin, số liệu ghi sai mà phải sửa chữa theo một trong ba phương pháp sau đây: a) Ghi cải chính bằng cách gạch một đường thẳng vào chỗ sai và ghi số hoặc chữ đúng ở phía trên và phải có chữ ký của kế toán trưởng bên cạnh;",
+    "clause": "Khi phát hiện sổ kế toán có sai sót thì không được tẩy xóa làm mất dấu vết thông tin, số liệu ghi sai mà phải sửa chữa theo một trong ba phương pháp sau đây: a) Ghi cải chính bằng cách gạch một đường thẳng vào chỗ sai và ghi số hoặc chữ đúng ở phía trên và phải có chữ ký của kế toán trưởng bên cạnh",
     "predicate": "sửa chữa",
     "roles": {
       "Theme": "theo một",
@@ -1664,7 +1608,7 @@
     }
   },
   {
-    "clause": "Mọi thí sinh đều có quyền được phúc khảo bài thi;",
+    "clause": "Mọi thí sinh đều có quyền được phúc khảo bài thi",
     "predicate": "có quyền",
     "roles": {
       "Theme": "được phúc khảo bài thi"
@@ -1696,7 +1640,7 @@
     }
   },
   {
-    "clause": "Trước khi bàn giao bài thi cho các Ban Phúc khảo, Ban Thư ký Hội đồng thi tiến hành các việc sau đây: a) Tra cứu từ số báo danh để tìm ra số phách bài thi tự luận hoặc phiếu TLTN của thí sinh có đơn phúc khảo;",
+    "clause": "Trước khi bàn giao bài thi cho các Ban Phúc khảo, Ban Thư ký Hội đồng thi tiến hành các việc sau đây: a) Tra cứu từ số báo danh để tìm ra số phách bài thi tự luận hoặc phiếu TLTN của thí sinh có đơn phúc khảo",
     "predicate": "bàn giao",
     "roles": {
       "Theme": "bài thi",
@@ -1705,7 +1649,7 @@
     }
   },
   {
-    "clause": "tiếp nhận bài thi đã được làm phách từ Ban Làm phách và giao cho Ban Phúc khảo bài thi tự luận để chấm phúc khảo;",
+    "clause": "tiếp nhận bài thi đã được làm phách từ Ban Làm phách và giao cho Ban Phúc khảo bài thi tự luận để chấm phúc khảo",
     "predicate": "giao",
     "roles": {
       "Theme": "cho Ban Phúc khảo bài thi tự luận"
@@ -1751,18 +1695,16 @@
     }
   },
   {
-    "clause": "Cấp Nhà nước thực hiện qua hai bước a) Bước 1: xem xét hồ sơ đề nghị xét tặng Giải thưởng Hồ Chí Minh và Giải thưởng Nhà nước tại các Hội đồng xét tặng Giải thưởng chuyên ngành cấp nhà nước do Bộ trưởng Bộ Khoa học và Công nghệ quyết định thành lập;",
+    "clause": "Cấp Nhà nước thực hiện qua hai bước a) Bước 1: xem xét hồ sơ đề nghị xét tặng Giải thưởng Hồ Chí Minh và Giải thưởng Nhà nước tại các Hội đồng xét tặng Giải thưởng chuyên ngành cấp nhà nước do Bộ trưởng Bộ Khoa học và Công nghệ quyết định thành lập",
     "predicate": "thực hiện",
     "roles": {
-      "Agent": "Bộ trưởng Bộ Khoa",
       "Theme": "qua hai bước a) Bước 1: xem xét"
     }
   },
   {
-    "clause": "Điều kiện áp dụng các loại giá hợp đồng xây dựng được quy định như sau: a) Đối với hợp đồng trọn gói: Giá hợp đồng trọn gói được áp dụng cho các gói thầu tại thời điểm lựa chọn nhà thầu và đàm phán ký kết hợp đồng đã đủ điều kiện để xác định rõ về khối lượng và đơn giá để thực hiện các công việc theo đúng các yêu cầu của hợp đồng xây dựng hoặc trong một số trường hợp chưa thể xác định được rõ khối lượng, đơn giá (như: Hợp đồng EC, EP, PC, EPC và hợp đồng chìa khóa trao tay) nhưng",
+    "clause": "Điều kiện áp dụng các loại giá hợp đồng xây dựng được quy định như sau: a) Đối với hợp đồng trọn gói: Giá hợp đồng trọn gói được áp dụng cho các gói thầu tại thời điểm lựa chọn nhà thầu và đàm phán ký kết hợp đồng đã đủ điều kiện để xác định rõ về khối lượng và đơn giá để thực hiện các công việc theo đúng các yêu cầu của hợp đồng xây dựng hoặc trong một số trường hợp chưa thể xác định được rõ khối lượng, đơn giá (như: Hợp đồng EC, EP, PC, EPC và hợp đồng chìa khóa trao tay) nhưng các bên tham gia hợp đồng có đủ năng lực kinh nghiệm để tính toán, xác định giá hợp đồng trọn gói.",
     "predicate": "áp dụng",
     "roles": {
-      "Agent": "nhà thầu",
       "Theme": "các loại giá hợp đồng xây dựng được quy định như sau: a) Đối",
       "Recipient": "các gói thầu"
     }
@@ -1817,10 +1759,11 @@
     }
   },
   {
-    "clause": "thuộc một trong các trường hợp sau đây: a) Đủ tuổi hưởng lương hưu theo quy định tại các Khoản 1, 2 và 4 Điều 54 của Luật Bảo hiểm xã hội mà chưa đủ 20 năm đóng bảo hiểm xã hội hoặc theo quy định tại Khoản 3 Điều 54 của Luật Bảo hiểm xã hội mà chưa đủ 15 năm đóng bảo hiểm xã hội và không tiếp tục tham gia bảo hiểm xã hội tự nguyện;",
+    "clause": "Người lao động quy định tại Khoản 1 và Khoản 2 Điều 2 của Nghị định này mà có yêu cầu thì được hưởng bảo hiểm xã hội một lần nếu thuộc một trong các trường hợp sau đây: a) Đủ tuổi hưởng lương hưu theo quy định tại các Khoản 1, 2 và 4 Điều 54 của Luật Bảo hiểm xã hội mà chưa đủ 20 năm đóng bảo hiểm xã hội hoặc theo quy định tại Khoản 3 Điều 54 của Luật Bảo hiểm xã hội mà chưa đủ 15 năm đóng bảo hiểm xã hội và không tiếp tục tham gia bảo hiểm xã hội tự nguyện",
     "predicate": "đóng",
     "roles": {
-      "Theme": "bảo hiểm xã hội hoặc"
+      "Theme": "bảo hiểm xã hội hoặc",
+      "Condition": "nếu thuộc một trong các trường hợp sau đây: a) Đủ tuổi hưởng lương hưu theo quy định tại các Khoản 1, 2 và 4 Điều 54 của..."
     }
   },
   {
@@ -1843,7 +1786,7 @@
     }
   },
   {
-    "clause": "Cách chi trả a. Phụ cấp trách nhiệm đối với Chánh án Tòa án nhân dân tối cao, Thẩm phán, Thư ký Tòa án và Thẩm tra viên thuộc biên chế trả lương của Tòa án nào thì do Tòa án đó chi trả;",
+    "clause": "Cách chi trả a. Phụ cấp trách nhiệm đối với Chánh án Tòa án nhân dân tối cao, Thẩm phán, Thư ký Tòa án và Thẩm tra viên thuộc biên chế trả lương của Tòa án nào thì do Tòa án đó chi trả",
     "predicate": "trả",
     "roles": {
       "Theme": "a. Phụ cấp trách nhiệm đối",
@@ -1881,7 +1824,7 @@
     }
   },
   {
-    "clause": "Nhiệm vụ của giáo viên Nhiệm vụ của giáo viên thực hiện theo quy định tại Điều lệ trường tiểu học, Điều lệ trường trung học cơ sở, trường trung học phổ thông và trường phổ thông có nhiều cấp học;",
+    "clause": "Nhiệm vụ của giáo viên Nhiệm vụ của giáo viên thực hiện theo quy định tại Điều lệ trường tiểu học, Điều lệ trường trung học cơ sở, trường trung học phổ thông và trường phổ thông có nhiều cấp học",
     "predicate": "thực hiện",
     "roles": {
       "Theme": "theo quy định"
@@ -1896,17 +1839,16 @@
     }
   },
   {
-    "clause": "Kế toán trưởng có trách nhiệm sau đây: a) Thực hiện các quy định của pháp luật về kế toán, tài chính trong đơn vị kế toán;",
+    "clause": "Kế toán trưởng có trách nhiệm sau đây: a) Thực hiện các quy định của pháp luật về kế toán, tài chính trong đơn vị kế toán",
     "predicate": "thực hiện",
     "roles": {
       "Theme": "các quy định của pháp luật về kế toán, tài chính"
     }
   },
   {
-    "clause": "Thủ tục thu hồi chứng thư số của cá nhân ... - Cơ quan thực hiện thủ tục hành chính: + Cơ quan có thẩm quyền quyết định: Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ;",
+    "clause": "Thủ tục thu hồi chứng thư số của cá nhân ... - Cơ quan thực hiện thủ tục hành chính: + Cơ quan có thẩm quyền quyết định: Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ",
     "predicate": "thực hiện",
     "roles": {
-      "Agent": "Chính phủ",
       "Theme": "thủ tục hành chính: + Cơ quan có"
     }
   },
@@ -1976,19 +1918,19 @@
     }
   },
   {
-    "clause": "Cung cấp cho bên cung ứng dịch vụ thông tin, tài liệu và các phương tiện cần thiết để thực hiện công việc, nếu",
+    "clause": "Đối tượng của hợp đồng dịch vụ Đối tượng của hợp đồng dịch vụ là công việc có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội.",
     "predicate": "thực hiện",
     "roles": {
-      "Agent": "bên cung ứng dịch vụ",
-      "Theme": "công việc, nếu",
-      "Recipient": "bên cung ứng dịch vụ thông tin"
+      "Theme": "được, không vi phạm điều cấm của luật"
     }
   },
   {
-    "clause": "có thỏa thuận hoặc việc thực hiện công việc đòi hỏi.",
+    "clause": "Cung cấp cho bên cung ứng dịch vụ thông tin, tài liệu và các phương tiện cần thiết để thực hiện công việc, nếu có thỏa thuận hoặc việc thực hiện công việc đòi hỏi.",
     "predicate": "thực hiện",
     "roles": {
-      "Theme": "công việc đòi hỏi"
+      "Theme": "công việc, nếu có thỏa thuận hoặc việc",
+      "Recipient": "bên cung ứng dịch vụ thông tin",
+      "Condition": "nếu có thỏa thuận hoặc việc thực hiện công việc đòi hỏi."
     }
   },
   {
@@ -2008,13 +1950,12 @@
     }
   },
   {
-    "clause": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau: a) Không hướng dẫn hoặc hướng dẫn không đúng hoặc không đầy đủ bằng văn bản theo quy định cho tổ chức, cá nhân xin cấp chứng thư số trước khi ký hợp đồng cấp chứng thư số;",
+    "clause": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau: a) Không hướng dẫn hoặc hướng dẫn không đúng hoặc không đầy đủ bằng văn bản theo quy định cho tổ chức, cá nhân xin cấp chứng thư số trước khi ký hợp đồng cấp chứng thư số",
     "predicate": "phạt",
     "roles": {
-      "Agent": "cá nhân",
       "Theme": "tiền từ 5.000.000 đồng",
       "Recipient": "10.000",
-      "Condition": "khi ký hợp đồng cấp chứng thư số;"
+      "Condition": "khi ký hợp đồng cấp chứng thư số"
     }
   },
   {
@@ -2036,11 +1977,11 @@
     }
   },
   {
-    "clause": "Khi tính thời gian thực hiện chế độ trợ cấp một lần, nếu",
+    "clause": "Khi tính thời gian thực hiện chế độ trợ cấp một lần, nếu có tháng lẻ thì từ đủ 6 tháng trở lên được tính tròn một năm, dưới 6 tháng được tính nửa (1/2) năm.",
     "predicate": "thực hiện",
     "roles": {
-      "Theme": "chế độ trợ cấp một lần, nếu",
-      "Condition": "Khi tính thời gian thực hiện chế độ trợ cấp một lần, nếu"
+      "Theme": "chế độ trợ cấp một lần, nếu có",
+      "Condition": "Khi tính thời gian thực hiện chế độ trợ cấp một lần, nếu có tháng lẻ thì từ đủ 6 tháng trở lên được tính tròn một năm, d..."
     }
   },
   {
@@ -2143,7 +2084,7 @@
     }
   },
   {
-    "clause": "Đánh giá kiểu loại sản phẩm đã được cấp Giấy chứng nhận kiểu loại;",
+    "clause": "Đánh giá kiểu loại sản phẩm đã được cấp Giấy chứng nhận kiểu loại",
     "predicate": "nhận",
     "roles": {
       "Theme": "kiểu loại"
@@ -2160,10 +2101,9 @@
     }
   },
   {
-    "clause": "Trong trường hợp này, Cơ sở sản xuất phải nộp bổ sung cho Cục Đăng kiểm Việt Nam các tài liệu sau: a) Tài liệu liên quan tới sự thay đổi của sản phẩm;",
+    "clause": "Trong trường hợp này, Cơ sở sản xuất phải nộp bổ sung cho Cục Đăng kiểm Việt Nam các tài liệu sau: a) Tài liệu liên quan tới sự thay đổi của sản phẩm",
     "predicate": "nộp bổ sung",
     "roles": {
-      "Agent": "Cục Đăng kiểm Việt Nam",
       "Theme": "cho Cục Đăng kiểm Việt Nam các tài",
       "Recipient": "sự thay đổi của sản phẩm",
       "Condition": "Trong trường hợp này, Cơ sở sản xuất phải nộp bổ sung cho Cục Đăng kiểm Việt Nam các tài liệu sau: a) Tài liệu liên quan..."
@@ -2194,10 +2134,9 @@
     }
   },
   {
-    "clause": "Chịu trách nhiệm cá nhân và một phần đối với nhóm;",
+    "clause": "Chịu trách nhiệm cá nhân và một phần đối với nhóm",
     "predicate": "chịu trách nhiệm",
     "roles": {
-      "Agent": "cá nhân",
       "Theme": "cá nhân và một phần đối",
       "Recipient": "nhóm"
     }

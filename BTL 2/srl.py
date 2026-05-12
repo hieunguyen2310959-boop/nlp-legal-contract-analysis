@@ -185,7 +185,7 @@ def build_srl_record(clause, ner_entities):
 
 
 def resolve_labeled_files():
-    new_file = Path("labeled_NER.jsonl")
+    new_file = Path("BTL 2/labeled_NER.jsonl")
     if new_file.exists():
         return [new_file]
     merged = Path("labeled_all.jsonl")

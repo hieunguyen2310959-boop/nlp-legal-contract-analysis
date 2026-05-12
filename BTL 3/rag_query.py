@@ -13,7 +13,7 @@ from pathlib import Path
 
 # ── Cấu hình ─────────────────────────────────────────────────────────────────
 
-CHROMA_DB_PATH  = "./chroma_db"
+CHROMA_DB_PATH  = "BTL 3/chroma_db"
 COLLECTION_NAME = "legal_clauses"
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 GEMINI_API_KEY  = "Enterthekeyhere:)"

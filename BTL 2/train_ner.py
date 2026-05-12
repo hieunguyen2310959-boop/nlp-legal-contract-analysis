@@ -8,12 +8,12 @@ from pathlib import Path
 
 PATHS = {
     "input": "output/labeled_NER.jsonl",
-    "train_spacy": "train.spacy",
-    "dev_spacy": "dev.spacy",
-    "base_config": "base_config.cfg",
-    "config": "config.cfg",
-    "model_dir": "./model",
-    "model_best": "./model/model-best",
+    "train_spacy": "BTL 2/train.spacy",
+    "dev_spacy": "BTL 2/dev.spacy",
+    "base_config": "BTL 2/base_config.cfg",
+    "config": "BTL 2/config.cfg",
+    "model_dir": "BTL 2/model",
+    "model_best": "BTL 2/model/model-best",
     "raw_clauses": "output/clauses.txt",
     "output_results": "output/ner_results.json"
 }

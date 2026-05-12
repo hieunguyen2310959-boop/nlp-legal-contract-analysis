@@ -17,10 +17,10 @@ import chromadb
 
 # ── Cấu hình ─────────────────────────────────────────────────────────────────
 
-CLAUSES_PATH     = Path("../output/clauses.txt")
-INTENT_PATH      = Path("../output/intent_classification.txt")
-SRL_PATH         = Path("../output/srl_results.json")
-CHROMA_DB_PATH   = "./chroma_db"
+CLAUSES_PATH     = Path("output/clauses.txt")
+INTENT_PATH      = Path("output/intent_classification.txt")
+SRL_PATH         = Path("output/srl_results.json")
+CHROMA_DB_PATH   = "BTL 3/chroma_db"
 COLLECTION_NAME  = "legal_clauses"
 
 # Embedding model (multilingual, nhẹ, hỗ trợ tiếng Việt)

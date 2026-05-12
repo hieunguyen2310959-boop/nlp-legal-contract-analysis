@@ -59,20 +59,36 @@ def split_into_clauses(sentence):
     return clauses
 
 def main():
-    # 1. Đọc file CSV đã tải về local
-    df = pd.read_csv("vietnam_legal_documents_train_local.csv")
-
-    # 2. Parse và làm sạch cột 'context', lấy 100 dòng đầu
+    # 1. Kiểm tra nguồn dữ liệu
+    CSV_PATH = "vietnam_legal_documents_train_local.csv"
+    RAW_PATH = "input/raw_contracts.txt"
+    
     raw_texts = []
-    for raw in df['context'].head(100):
-        text = parse_context(raw)
-        text = preprocess_legal_text(text)
-        if text:
-            raw_texts.append(text)
-
-    # 3. Lưu vào input/raw_contracts.txt
-    with open("input/raw_contracts.txt", "w", encoding="utf-8") as f:
-        f.write("\n\n".join(raw_texts))
+    
+    if os.path.exists(CSV_PATH):
+        print(f"Đang đọc từ {CSV_PATH}...")
+        df = pd.read_csv(CSV_PATH)
+        # Parse và làm sạch cột 'context', lấy 100 dòng đầu
+        for raw in df['context'].head(100):
+            text = parse_context(raw)
+            text = preprocess_legal_text(text)
+            if text:
+                raw_texts.append(text)
+        # Lưu lại bản thô để dùng lần sau
+        with open(RAW_PATH, "w", encoding="utf-8") as f:
+            f.write("\n\n".join(raw_texts))
+    elif os.path.exists(RAW_PATH):
+        print(f"Không tìm thấy CSV, đang đọc từ {RAW_PATH}...")
+        with open(RAW_PATH, "r", encoding="utf-8") as f:
+            content = f.read()
+        paragraphs = content.split("\n\n")
+        for para in paragraphs:
+            text = preprocess_legal_text(para)
+            if text:
+                raw_texts.append(text)
+    else:
+        print("Lỗi: Không tìm thấy file CSV hoặc raw_contracts.txt!")
+        return
 
     # 4. Tách mệnh đề và lưu vào output/clauses.txt
     all_clauses = []

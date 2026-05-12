@@ -27,6 +27,7 @@ vietnam_legal_documents_train_local.csv
 *.bin
 *.h5
 models/
+chroma_db/
 
 # IDE
 .vscode/
